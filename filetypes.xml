@@ -5,6 +5,7 @@
       <mapping ext="jc" type="CLASS" />
       <mapping ext="jacl" type="CLASS" />
       <mapping ext="javaclass" type="PLAIN_TEXT" />
+      <mapping ext="30xpromvstate" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
