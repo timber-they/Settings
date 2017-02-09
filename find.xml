@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'emu30XProMV.jar.src'" />
-    <option name="defaultScopeName" value="Project 'emu30XProMV.jar.src'" />
-    <option name="SEARCH_SCOPE" value="Project 'emu30XProMV.jar.src'" />
+    <option name="customScope" value="Project 'emu30XProMV_source_from_cfr'" />
+    <option name="defaultScopeName" value="Project 'emu30XProMV_source_from_cfr'" />
+    <option name="SEARCH_SCOPE" value="Project 'emu30XProMV_source_from_cfr'" />
   </component>
 </application>
