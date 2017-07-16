@@ -1,0 +1,12 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="test" type="CLASS" />
+      <mapping ext="jc" type="CLASS" />
+      <mapping ext="jacl" type="CLASS" />
+      <mapping ext="gram" type="PLAIN_TEXT" />
+      <mapping ext="30xpromvstate" type="PLAIN_TEXT" />
+      <mapping ext="javaclass" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
