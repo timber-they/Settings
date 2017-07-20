@@ -40,11 +40,11 @@
       <file name="/a.dummy" timestamp="1500547265907">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Documents/mercatis/recon-jet-pro/ReconWareHouse/app/src/main/java/de/mercatis/reconwarehouse/Activities/_15_RegionPickingActivity/RegionPickingActivity.java" timestamp="1500472716797">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-        <mark key="^" line="5" column="0" />
+      <file name="D:/Documents/mercatis/recon-jet-pro/ReconWareHouse/app/src/main/java/de/mercatis/reconwarehouse/Activities/_15_RegionPickingActivity/RegionPickingActivity.java" timestamp="1500554116969">
+        <mark key="[" line="6" column="4" />
+        <mark key="]" line="7" column="3" />
+        <mark key="." line="7" column="3" />
+        <mark key="^" line="7" column="3" />
       </file>
       <file name="D:/Documents/mercatis/recon-jet-pro/ReconWareHouse/app/src/main/java/de/mercatis/reconwarehouse/Activities/_51_PauseActivity/PauseActivity.java" timestamp="1500549548317">
         <mark key="[" line="31" column="5" />
@@ -62,11 +62,11 @@
         <mark key="[" line="0" column="0" />
         <mark key="]" line="35" column="14" />
       </file>
-      <file name="D:/Documents/mercatis/recon-jet-pro/ReconWareHouse/app/src/main/java/de/mercatis/reconwarehouse/Activities/BaseActivity.java" timestamp="1500553348146">
-        <mark key="[" line="152" column="0" />
-        <mark key="]" line="152" column="71" />
-        <mark key="." line="152" column="71" />
-        <mark key="^" line="152" column="71" />
+      <file name="D:/Documents/mercatis/recon-jet-pro/ReconWareHouse/app/src/main/java/de/mercatis/reconwarehouse/Activities/BaseActivity.java" timestamp="1500554073005">
+        <mark key="[" line="154" column="16" />
+        <mark key="]" line="152" column="58" />
+        <mark key="." line="152" column="58" />
+        <mark key="^" line="152" column="58" />
       </file>
       <file name="D:/Documents/mercatis/recon-jet-pro/ReconWareHouse/app/src/main/res/layout/activity_pause.xml" timestamp="1500549778415">
         <mark key="'" line="0" column="0" />
@@ -157,8 +157,8 @@
       <jump line="0" column="0" filename="D:/Documents/mercatis/recon-jet-pro/ReconWareHouse/app/src/main/res/layout/activity_unload.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIH0=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJvb2xlYW4gaXNVbmxvYWRGaW5pc2hlZCA9IExpc2FDb21tdW5pY2F0aW9uLklzVW5sb2FkRmluc2loZWQoKTsK</text>
       </register>
       <register name="-" type="4">
         <text>GlobalProperties</text>
@@ -169,14 +169,14 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxUZXh0VmlldwogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9zcGVlY2hSZWNvZ25pdGlvbkVuYWJsZWRfdGV4dDIiCiAgICAgICAgYW5kcm9pZDp0ZXh0Q29sb3I9IkBhbmRyb2lkOmNvbG9yL2hvbG9fb3JhbmdlX2RhcmsiCiAgICAgICAgYW5kcm9pZDp2aXNpYmlsaXR5PSJnb25lIgogICAgICAgIGFuZHJvaWQ6dGV4dD0iQHN0cmluZy9zcGVlY2hSZWNvZ25pdGlvbkRpc2FibGVkX3RleHQiLz4K</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJvb2xlYW4gaXNVbmxvYWRGaW5pc2hlZCA9IExpc2FDb21tdW5pY2F0aW9uLklzVW5sb2FkRmluc2loZWQoKTsK</text>
+      </register>
+      <register name="2" type="4">
         <text encoding="base64">ICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIH0=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIGJvb2xlYW4gSGFzUGlja2luZ01pc3Rha2UoKQogICAgewogICAgICAgIHJldHVybiBleHBlY3RlZFBpY2tpbmdBbW91bnQgIT0gcGlja2luZ0Ftb3VudDsKICAgIH0K</text>
-      </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgVW5zdXBwb3J0ZWRPcGVyYXRpb25FeGNlcHRpb24oIk5vdCBpbXBsZW1lbnRlZCIpOwo=</text>
+        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIGJvb2xlYW4gSGFzUGlja2luZ01pc3Rha2UoKQogICAgewogICAgICAgIHJldHVybiBleHBlY3RlZFBpY2tpbmdBbW91bnQgIT0gcGlja2luZ0Ftb3VudDsKICAgIH0K</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgVW5zdXBwb3J0ZWRPcGVyYXRpb25FeGNlcHRpb24oIk5vdCBpbXBsZW1lbnRlZCIpOwo=</text>
@@ -194,7 +194,7 @@
         <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgVW5zdXBwb3J0ZWRPcGVyYXRpb25FeGNlcHRpb24oIk5vdCBpbXBsZW1lbnRlZCIpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIHZvaWQgSW5pdGlhbGl6ZShMb2dpbkFjdGl2aXR5IGxvZ2luQWN0aXZpdHkpCiAgICB7CiAgICAgICAgaW50IGkgPSAwOwogICAgICAgIEFsbEFjdGl2aXRpZXMgPSBuZXcgSVByb2Nlc3NBY3Rpdml0eVs5XTsKICAgICAgICBHbG9iYWxQcm9wZXJ0aWVzLmxvZ2luQWN0aXZpdHkgPSBsb2dpbkFjdGl2aXR5OwogICAgICAgIEFsbEFjdGl2aXRpZXNbaSsrXSA9IEdsb2JhbFByb3BlcnRpZXMubG9naW5BY3Rpdml0eTsgLy9wb3N0aW5jIGluIG9yZGVyIHRvIGFkZCB0aGUgYWN0aXZpdGllcyBpbiBpdHMgb3JkZXIKICAgICAgICBBbGxBY3Rpdml0aWVzW2krK10gPSBjb21taXNzaW9uQ2FydFNjYW5uaW5nQWN0aXZpdHkgPSBuZXcgQ29tbWlzc2lvbkNhcnRTY2FubmluZ0FjdGl2aXR5KCk7CiAgICAgICAgQWxsQWN0aXZpdGllc1tpKytdID0gY3VzdG9tZXJJbmZvcm1hdGlvbkFjdGl2aXR5ID0gbmV3IEN1c3RvbWVySW5mb3JtYXRpb25BY3Rpdml0eSgpOwogICAgICAgIEFsbEFjdGl2aXRpZXNbaSsrXSA9IHNlbGVjdExITVR5cGVBY3Rpdml0eSA9IG5ldyBTZWxlY3RMSE1UeXBlQWN0aXZpdHkoKTsKICAgICAgICBBbGxBY3Rpdml0aWVzW2krK10gPSB0YXJnZXRMSE1TY2FubmluZ0FjdGl2aXR5ID0gbmV3IFRhcmdldExITVNjYW5uaW5nQWN0aXZpdHkoKTsKICAgICAgICBBbGxBY3Rpdml0aWVzW2krK10gPSBwaWNrUG9zaXRpb25WaWV3aW5nQWN0aXZpdHkgPSBuZXcgUGlja1Bvc2l0aW9uVmlld2luZ0FjdGl2aXR5KCk7CiAgICAgICAgQWxsQWN0aXZpdGllc1tpKytdID0gcHJpbnRlclNjYW5uaW5nQWN0aXZpdHkgPSBuZXcgUHJpbnRlclNjYW5uaW5nQWN0aXZpdHkoKTsKICAgICAgICBBbGxBY3Rpdml0aWVzW2krK10gPSBwaG90b0FjdGl2aXR5ID0gbmV3IFBob3RvQWN0aXZpdHkoKTsKICAgICAgICBBbGxBY3Rpdml0aWVzW2ldID0gdGFyZ2V0U3RvcmFnZVNjYW5uaW5nQWN0aXZpdHkgPSBuZXcgVGFyZ2V0U3RvcmFnZVNjYW5uaW5nQWN0aXZpdHkoKTsKCiAgICAgICAgc3BlZWNoUmVjb2duaXRpb25FbmFibGVkVGV4dFZpZXdzID0gQXJyYXlzLmFzTGlzdCgKICAgICAgICAgICAgICAgIChUZXh0VmlldykgbG9naW5BY3Rpdml0eS5maW5kVmlld0J5SWQoUi5pZC5zcGVlY2hSZWNvZ25pdGlvbkVuYWJsZWRfdGV4dDApLAogICAgICAgICAgICAgICAgKFRleHRWaWV3KSBsb2dpbkFjdGl2aXR5LmZpbmRWaWV3QnlJZChSLmlkLnNwZWVjaFJlY29nbml0aW9uRW5hYmxlZF90ZXh0MSksCiAgICAgICAgICAgICAgICAoVGV4dFZpZXcpIGxvZ2luQWN0aXZpdHkuZmluZFZpZXdCeUlkKFIuaWQuc3BlZWNoUmVjb2duaXRpb25FbmFibGVkX3RleHQyKSwKICAgICAgICAgICAgICAgIChUZXh0VmlldykgbG9naW5BY3Rpdml0eS5maW5kVmlld0J5SWQoUi5pZC5zcGVlY2hSZWNvZ25pdGlvbkVuYWJsZWRfdGV4dDMpLAogICAgICAgICAgICAgICAgKFRleHRWaWV3KSBsb2dpbkFjdGl2aXR5LmZpbmRWaWV3QnlJZChSLmlkLnNwZWVjaFJlY29nbml0aW9uRW5hYmxlZF90ZXh0NCksCiAgICAgICAgICAgICAgICAoVGV4dFZpZXcpIGxvZ2luQWN0aXZpdHkuZmluZFZpZXdCeUlkKFIuaWQuc3BlZWNoUmVjb2duaXRpb25FbmFibGVkX3RleHQ1KSwKICAgICAgICAgICAgICAgIChUZXh0VmlldykgbG9naW5BY3Rpdml0eS5maW5kVmlld0J5SWQoUi5pZC5zcGVlY2hSZWNvZ25pdGlvbkVuYWJsZWRfdGV4dDYpLAogICAgICAgICAgICAgICAgKFRleHRWaWV3KSBsb2dpbkFjdGl2aXR5LmZpbmRWaWV3QnlJZChSLmlkLnNwZWVjaFJlY29nbml0aW9uRW5hYmxlZF90ZXh0NjUpLAogICAgICAgICAgICAgICAgKFRleHRWaWV3KSBsb2dpbkFjdGl2aXR5LmZpbmRWaWV3QnlJZChSLmlkLnNwZWVjaFJlY29nbml0aW9uRW5hYmxlZF90ZXh0NykKICAgICAgICApOwoKICAgICAgICB0cnkKICAgICAgICB7CiAgICAgICAgICAgIEFzc2V0c0RpciA9IG5ldyBBc3NldHMobG9naW5BY3Rpdml0eSkuc3luY0Fzc2V0cygpOwogICAgICAgIH0KICAgICAgICBjYXRjaCAoSU9FeGNlcHRpb24gZSkKICAgICAgICB7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfQogICAgfQo=</text>
+        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgVW5zdXBwb3J0ZWRPcGVyYXRpb25FeGNlcHRpb24oIk5vdCBpbXBsZW1lbnRlZCIpOwo=</text>
       </register>
       <register name=":" type="4">
         <text>help</text>
