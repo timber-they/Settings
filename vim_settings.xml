@@ -40,11 +40,11 @@
       <file name="/a.dummy" timestamp="1500547265907">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="D:/Documents/mercatis/recon-jet-pro/ReconWareHouse/app/src/main/java/de/mercatis/reconwarehouse/Activities/_15_RegionPickingActivity/RegionPickingActivity.java" timestamp="1500554116969">
-        <mark key="[" line="6" column="4" />
-        <mark key="]" line="7" column="3" />
-        <mark key="." line="7" column="3" />
-        <mark key="^" line="7" column="3" />
+      <file name="D:/Documents/mercatis/recon-jet-pro/ReconWareHouse/app/src/main/java/de/mercatis/reconwarehouse/Activities/_15_RegionPickingActivity/RegionPickingActivity.java" timestamp="1500554268810">
+        <mark key="[" line="20" column="69" />
+        <mark key="]" line="21" column="54" />
+        <mark key="." line="21" column="54" />
+        <mark key="^" line="21" column="54" />
       </file>
       <file name="D:/Documents/mercatis/recon-jet-pro/ReconWareHouse/app/src/main/java/de/mercatis/reconwarehouse/Activities/_51_PauseActivity/PauseActivity.java" timestamp="1500549548317">
         <mark key="[" line="31" column="5" />
@@ -58,15 +58,25 @@
         <mark key="^" line="148" column="4" />
         <mark key="." line="148" column="0" />
       </file>
+      <file name="D:/Documents/mercatis/recon-jet-pro/ReconWareHouse/app/src/main/java/de/mercatis/reconwarehouse/Activities/_20_CustomerInformationActivity/CustomerInformationActivity.java" timestamp="1500474137662">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
       <file name="D:/Documents/mercatis/recon-jet-pro/ReconWareHouse/app/src/main/res/layout/activity_login.xml" timestamp="1500547630610">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="35" column="14" />
       </file>
-      <file name="D:/Documents/mercatis/recon-jet-pro/ReconWareHouse/app/src/main/java/de/mercatis/reconwarehouse/Activities/BaseActivity.java" timestamp="1500554073005">
-        <mark key="[" line="154" column="16" />
-        <mark key="]" line="152" column="58" />
-        <mark key="." line="152" column="58" />
-        <mark key="^" line="152" column="58" />
+      <file name="D:/Documents/mercatis/recon-jet-pro/ReconWareHouse/app/src/main/java/de/mercatis/reconwarehouse/Activities/BaseActivity.java" timestamp="1500555214165">
+        <mark key="[" line="131" column="0" />
+        <mark key="]" line="131" column="0" />
+        <mark key="." line="131" column="0" />
+        <mark key="^" line="131" column="44" />
+      </file>
+      <file name="D:/Documents/mercatis/recon-jet-pro/ReconWareHouse/app/src/main/java/de/mercatis/reconwarehouse/Activities/_30_SelectLHMTypeActivity/SelectLHMTypeActivity.java" timestamp="1500546925504">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
       <file name="D:/Documents/mercatis/recon-jet-pro/ReconWareHouse/app/src/main/res/layout/activity_pause.xml" timestamp="1500549778415">
         <mark key="'" line="0" column="0" />
@@ -75,11 +85,11 @@
         <mark key="^" line="10" column="28" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="D:/Documents/mercatis/recon-jet-pro/ReconWareHouse/app/src/main/res/layout/activity_customer_information.xml" timestamp="1500549600898">
+      <file name="D:/Documents/mercatis/recon-jet-pro/ReconWareHouse/app/src/main/res/layout/activity_customer_information.xml" timestamp="1500554367168">
         <mark key="[" line="12" column="0" />
-        <mark key="]" line="18" column="63" />
+        <mark key="]" line="18" column="62" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500550388158">
+      <file name="/Dummy.txt" timestamp="1500555223376">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Documents/mercatis/recon-jet-pro/ReconWareHouse/app/src/main/res/layout/activity_not_enough_taken.xml" timestamp="1500549766011">
@@ -93,6 +103,17 @@
         <mark key="]" line="6" column="11" />
         <mark key="^" line="6" column="11" />
         <mark key="." line="6" column="11" />
+      </file>
+      <file name="D:/Documents/mercatis/recon-jet-pro/ReconWareHouse/app/src/main/java/de/mercatis/reconwarehouse/Activities/_70_TargetStorageScanningActivity/TargetStorageScanningActivity.java" timestamp="1500474644245">
+        <mark key="[" line="19" column="1" />
+        <mark key="]" line="19" column="1" />
+        <mark key="." line="19" column="1" />
+      </file>
+      <file name="D:/Documents/mercatis/recon-jet-pro/ReconWareHouse/app/src/main/res/layout/activity_region_picking.xml" timestamp="1500554379710">
+        <mark key="[" line="13" column="55" />
+        <mark key="]" line="16" column="3" />
+        <mark key="^" line="16" column="3" />
+        <mark key="." line="16" column="3" />
       </file>
       <file name="D:/Documents/mercatis/recon-jet-pro/ReconWareHouse/app/src/main/java/de/mercatis/reconwarehouse/Activities/_0_LoginActivity/LoginActivity.java" timestamp="1500549373145">
         <mark key="[" line="76" column="30" />
@@ -115,11 +136,10 @@
       <file name="D:/Documents/mercatis/recon-jet-pro/ReconWareHouse/app/src/main/java/de/mercatis/reconwarehouse/Activities/_65_PhotoActivity/PhotoActivity.java" timestamp="1500473590002">
         <mark key="[" line="5" column="63" />
       </file>
-      <file name="D:/Documents/mercatis/recon-jet-pro/ReconWareHouse/app/src/main/java/de/mercatis/reconwarehouse/Activities/GlobalProperties.java" timestamp="1500549125321">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="^" line="10" column="35" />
-        <mark key="." line="45" column="0" />
+      <file name="D:/Documents/mercatis/recon-jet-pro/ReconWareHouse/app/src/main/java/de/mercatis/reconwarehouse/Activities/GlobalProperties.java" timestamp="1500554628996">
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
       </file>
       <file name="D:/Documents/mercatis/recon-jet-pro/ReconWareHouse/app/src/main/res/layout/activity_last_printer_scanning.xml" timestamp="1500549750636">
         <mark key="[" line="15" column="55" />
@@ -141,6 +161,11 @@
       <file name="/fragment.java" timestamp="1500547558470">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="D:/Documents/mercatis/recon-jet-pro/ReconWareHouse/app/src/main/java/de/mercatis/reconwarehouse/IProcessActivity.java" timestamp="1500474225648">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="100" column="33" filename="D:/Documents/mercatis/recon-jet-pro/ReconWareHouse/app/src/main/java/de/mercatis/reconwarehouse/Activities/BaseActivity.java" />
@@ -158,10 +183,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJvb2xlYW4gaXNVbmxvYWRGaW5pc2hlZCA9IExpc2FDb21tdW5pY2F0aW9uLklzVW5sb2FkRmluc2loZWQoKTsK</text>
+        <text encoding="base64">ICAgICAgICBBbGxBY3Rpdml0aWVzW2krK10gPSBHbG9iYWxQcm9wZXJ0aWVzCg==</text>
       </register>
       <register name="-" type="4">
-        <text>GlobalProperties</text>
+        <text>.;</text>
       </register>
       <register name="/" type="4">
         <text>Following</text>
@@ -170,31 +195,31 @@
         <text encoding="base64">ICAgIDxUZXh0VmlldwogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9zcGVlY2hSZWNvZ25pdGlvbkVuYWJsZWRfdGV4dDIiCiAgICAgICAgYW5kcm9pZDp0ZXh0Q29sb3I9IkBhbmRyb2lkOmNvbG9yL2hvbG9fb3JhbmdlX2RhcmsiCiAgICAgICAgYW5kcm9pZDp2aXNpYmlsaXR5PSJnb25lIgogICAgICAgIGFuZHJvaWQ6dGV4dD0iQHN0cmluZy9zcGVlY2hSZWNvZ25pdGlvbkRpc2FibGVkX3RleHQiLz4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGJvb2xlYW4gaXNVbmxvYWRGaW5pc2hlZCA9IExpc2FDb21tdW5pY2F0aW9uLklzVW5sb2FkRmluc2loZWQoKTsK</text>
+        <text encoding="base64">ICAgICAgICBBbGxBY3Rpdml0aWVzW2krK10gPSBHbG9iYWxQcm9wZXJ0aWVzCg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIHsKICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIH0=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIGJvb2xlYW4gSGFzUGlja2luZ01pc3Rha2UoKQogICAgewogICAgICAgIHJldHVybiBleHBlY3RlZFBpY2tpbmdBbW91bnQgIT0gcGlja2luZ0Ftb3VudDsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgVW5zdXBwb3J0ZWRPcGVyYXRpb25FeGNlcHRpb24oIk5vdCBpbXBsZW1lbnRlZCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgVW5zdXBwb3J0ZWRPcGVyYXRpb25FeGNlcHRpb24oIk5vdCBpbXBsZW1lbnRlZCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgVW5zdXBwb3J0ZWRPcGVyYXRpb25FeGNlcHRpb24oIk5vdCBpbXBsZW1lbnRlZCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgVW5zdXBwb3J0ZWRPcGVyYXRpb25FeGNlcHRpb24oIk5vdCBpbXBsZW1lbnRlZCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgVW5zdXBwb3J0ZWRPcGVyYXRpb25FeGNlcHRpb24oIk5vdCBpbXBsZW1lbnRlZCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB0aHJvdyBuZXcgVW5zdXBwb3J0ZWRPcGVyYXRpb25FeGNlcHRpb24oIk5vdCBpbXBsZW1lbnRlZCIpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgY2FzZSBUYXJnZXRTdG9yYWdlU2Nhbm5pbmdBY3Rpdml0eToKICAgICAgICAgICAgICAgIGJyZWFrOwo=</text>
       </register>
       <register name=":" type="4">
         <text>help</text>
