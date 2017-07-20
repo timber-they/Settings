@@ -1,6 +1,6 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="false" />
+    <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
       <file name="D:/Documents/mercatis/recon-jet-pro/ReconWareHouse/app/src/main/java/de/mercatis/reconwarehouse/Activities/_50_PickPositionViewingActivity/PickPositionViewingActivity.java" timestamp="1500473584599">
@@ -12,10 +12,24 @@
         <mark key="^" line="6" column="11" />
         <mark key="." line="6" column="11" />
       </file>
+      <file name="D:/Documents/mercatis/recon-jet-pro/ReconWareHouse/app/src/main/java/de/mercatis/reconwarehouse/Activities/_55_LastPrinterScanningActivity/LastPrinterScanningActivity.java" timestamp="1500547522118">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="10" column="5" />
+        <mark key="^" line="4" column="60" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="D:/Documents/mercatis/recon-jet-pro/ReconWareHouse/app/src/main/java/de/mercatis/reconwarehouse/Activities/_56_UnloadActivity/UnloadActivity.java" timestamp="1500547567861">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="11" column="5" />
+        <mark key="." line="7" column="0" />
+      </file>
       <file name="D:/Documents/mercatis/recon-jet-pro/ReconWareHouse/app/src/main/java/de/mercatis/reconwarehouse/Types/Activity.java" timestamp="1500472733901">
         <mark key="]" line="1" column="0" />
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1500547265907">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Documents/mercatis/recon-jet-pro/ReconWareHouse/app/src/main/java/de/mercatis/reconwarehouse/Activities/_15_RegionPickingActivity/RegionPickingActivity.java" timestamp="1500472716797">
         <mark key="[" line="5" column="0" />
@@ -27,6 +41,19 @@
         <mark key="[" line="19" column="1" />
         <mark key="]" line="19" column="1" />
         <mark key="." line="19" column="1" />
+      </file>
+      <file name="D:/Documents/mercatis/recon-jet-pro/ReconWareHouse/app/src/main/java/de/mercatis/reconwarehouse/Activities/_54_NotEnoughTakenActivity/NotEnoughTakenActivity.java" timestamp="1500547409535">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="11" column="5" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="D:/Documents/mercatis/recon-jet-pro/ReconWareHouse/app/src/main/java/de/mercatis/reconwarehouse/Activities/_55_PauseActivity/PauseActivity.java" timestamp="1500547204262">
+        <mark key="^" line="6" column="0" />
+      </file>
+      <file name="D:/Documents/mercatis/recon-jet-pro/ReconWareHouse/app/src/main/java/de/mercatis/reconwarehouse/Activities/_53_CountActivity/CountActivity.java" timestamp="1500547362475">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="11" column="5" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="D:/Documents/mercatis/recon-jet-pro/ReconWareHouse/app/src/main/java/de/mercatis/reconwarehouse/Activities/_20_CustomerInformationActivity/CustomerInformationActivity.java" timestamp="1500474137662">
         <mark key="[" line="24" column="0" />
@@ -42,19 +69,32 @@
         <mark key="^" line="10" column="35" />
         <mark key="." line="10" column="35" />
       </file>
-      <file name="D:/Documents/mercatis/recon-jet-pro/ReconWareHouse/app/src/main/java/de/mercatis/reconwarehouse/Activities/BaseActivity.java" timestamp="1500473926332">
-        <mark key="[" line="27" column="24" />
-        <mark key="]" line="27" column="28" />
-        <mark key="^" line="27" column="28" />
-        <mark key="." line="27" column="28" />
+      <file name="D:/Documents/mercatis/recon-jet-pro/ReconWareHouse/app/src/main/res/layout/activity_login.xml" timestamp="1500547630610">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="35" column="14" />
       </file>
-      <file name="/fragment.java" timestamp="1500472477975">
+      <file name="D:/Documents/mercatis/recon-jet-pro/ReconWareHouse/app/src/main/java/de/mercatis/reconwarehouse/Activities/BaseActivity.java" timestamp="1500546979679">
+        <mark key="[" line="32" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+      </file>
+      <file name="D:/Documents/mercatis/recon-jet-pro/ReconWareHouse/app/src/main/java/de/mercatis/reconwarehouse/Activities/_52_CheckEmptyActivity/CheckEmptyActivity.java" timestamp="1500547312599">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="11" column="5" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1500547558470">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Documents/mercatis/recon-jet-pro/ReconWareHouse/app/src/main/java/de/mercatis/reconwarehouse/IProcessActivity.java" timestamp="1500474225648">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
+      </file>
+      <file name="D:/Documents/mercatis/recon-jet-pro/ReconWareHouse/app/src/main/java/de/mercatis/reconwarehouse/Activities/_30_SelectLHMTypeActivity/SelectLHMTypeActivity.java" timestamp="1500546925504">
+        <mark key="[" line="38" column="0" />
+        <mark key="]" line="38" column="0" />
+        <mark key="." line="38" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -64,41 +104,44 @@
       <jump line="26" column="37" filename="D:/Documents/mercatis/recon-jet-pro/ReconWareHouse/app/src/main/java/de/mercatis/reconwarehouse/Activities/_0_LoginActivity/LoginActivity.java" />
     </jumps>
     <registers>
-      <register name="1" type="4">
-        <text encoding="base64">CgogICAgQE92ZXJyaWRlCiAgICBwcm90ZWN0ZWQgdm9pZCBvbkNyZWF0ZShCdW5kbGUgc2F2ZWRJbnN0YW5jZVN0YXRlKQ==</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text encoding="base64">CgogICAgQE92ZXJyaWRlCiAgICBwcm90ZWN0ZWQgdm9pZCBvbkNyZWF0ZShCdW5kbGUgc2F2ZWRJbnN0YW5jZVN0YXRlKQ==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIElQcm9jZXNzQWN0aXZpdHkgZ2V0UHJldmlvdXNBY3Rpdml0eSgpOwogICAgSVByb2Nlc3NBY3Rpdml0eSBnZXRGb2xsb3dpbmdBY3Rpdml0eSgpOwo=</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBUZXh0VmlldyBuYW1lID0gKFRleHRWaWV3KSBmaW5kVmlld0J5SWQoUi5pZC5jdXN0b21lcl9pbmZvcm1hdGlvbl9uYW1lKTsKICAgICAgICBUZXh0VmlldyBhcmVhID0gKFRleHRWaWV3KSBmaW5kVmlld0J5SWQoUi5pZC5jdXN0b21lcl9pbmZvcm1hdGlvbl9hcmVhKTsKICAgICAgICBUZXh0VmlldyB3YV9Mb2NhdGlvbiA9IChUZXh0VmlldykgZmluZFZpZXdCeUlkKFIuaWQuY3VzdG9tZXJfaW5mb3JtYXRpb25fd2FfTG9jYXRpb24pOwogICAgICAgIFRleHRWaWV3IGluZm8gPSAoVGV4dFZpZXcpIGZpbmRWaWV3QnlJZChSLmlkLmN1c3RvbWVyX2luZm9ybWF0aW9uX2luZm8pOwogICAgICAgIFRleHRWaWV3IHByb3ZpZGluZ1RpbWUgPSAoVGV4dFZpZXcpIGZpbmRWaWV3QnlJZChSLmlkLmN1c3RvbWVyX2luZm9ybWF0aW9uX3Byb3ZpZGluZ1RpbWUpOwogICAgICAgIFRleHRWaWV3IG1hc3MgPSAoVGV4dFZpZXcpIGZpbmRWaWV3QnlJZChSLmlkLmN1c3RvbWVyX2luZm9ybWF0aW9uX21hc3MpOwogICAgICAgIFRleHRWaWV3IHZvbHVtZSA9IChUZXh0VmlldykgZmluZFZpZXdCeUlkKFIuaWQuY3VzdG9tZXJfaW5mb3JtYXRpb25fdm9sdW1lKTsKICAgICAgICBUZXh0VmlldyBwcm9kdWN0VGl0bGUgPSAoVGV4dFZpZXcpIGZpbmRWaWV3QnlJZChSLmlkLmN1c3RvbWVyX2luZm9ybWF0aW9uX3Byb2R1Y3RUaXRsZSk7Cg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci5vbkNyZWF0ZShzYXZlZEluc3RhbmNlU3RhdGUpOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoaW5kZXguZ2V0TnVtVmFsdWUoKSAhPSBHbG9iYWxQcm9wZXJ0aWVzLkFsbEFjdGl2aXRpZXMubGVuZ3RoKQogICAgICAgICAgICByZXR1cm4gR2xvYmFsUHJvcGVydGllcy5BbGxBY3Rpdml0aWVzW2luZGV4LmdldE51bVZhbHVlKCkgKyAxXTsKICAgICAgICBlbHNlCiAgICAgICAgICAgIHJldHVybiBHbG9iYWxQcm9wZXJ0aWVzLmNvbW1pc3Npb25DYXJ0U2Nhbm5pbmdBY3Rpdml0eTtpCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIElQcm9jZXNzQWN0aXZpdHkgZ2V0UHJldmlvdXNBY3Rpdml0eSgpCiAgICB7CiAgICAgICAgcmV0dXJuIEdsb2JhbFByb3BlcnRpZXMuQWxsQWN0aXZpdGllc1tpbmRleC5nZXROdW1WYWx1ZSgpLTFdOwogICAgfQoKICAgIEBPdmVycmlkZQogICAgcHVibGljIElQcm9jZXNzQWN0aXZpdHkgZ2V0Rm9sbG93aW5nQWN0aXZpdHkoKQogICAgewogICAgICAgIHJldHVybiBHbG9iYWxQcm9wZXJ0aWVzLkFsbEFjdGl2aXRpZXNbKGluZGV4LmdldE51bVZhbHVlKCkrMSklOV07CiAgICB9Cgo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAvL0Rpc3BsYXlDb250cm9sIGRpc3BsYXkgPSBuZXcgRGlzcGxheUNvbnRyb2wodGhpcyk7CiAgICAgICAgLy9kaXNwbGF5LnNldEJhY2tsaWdodCgxMCk7Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPExpbmVhckxheW91dAogICAgeG1sbnM6YW5kcm9pZD0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vYXBrL3Jlcy9hbmRyb2lkIgogICAgeG1sbnM6dG9vbHM9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL3Rvb2xzIgogICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0ibWF0Y2hfcGFyZW50IgogICAgYW5kcm9pZDpwYWRkaW5nQm90dG9tPSJAZGltZW4vYWN0aXZpdHlfdmVydGljYWxfbWFyZ2luIgogICAgYW5kcm9pZDpwYWRkaW5nTGVmdD0iQGRpbWVuL2FjdGl2aXR5X2hvcml6b250YWxfbWFyZ2luIgogICAgYW5kcm9pZDpwYWRkaW5nUmlnaHQ9IkBkaW1lbi9hY3Rpdml0eV9ob3Jpem9udGFsX21hcmdpbiIKICAgIGFuZHJvaWQ6cGFkZGluZ1RvcD0iQGRpbWVuL2FjdGl2aXR5X3ZlcnRpY2FsX21hcmdpbiIKICAgIHRvb2xzOmNvbnRleHQ9Ii5BY3Rpdml0aWVzLl8wX0xvZ2luQWN0aXZpdHkuTG9naW5BY3Rpdml0eSIKICAgIGFuZHJvaWQ6b3JpZW50YXRpb249InZlcnRpY2FsIj4KICAgIDxUZXh0VmlldwogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9zcGVlY2hSZWNvZ25pdGlvbkVuYWJsZWRfdGV4dDAiCiAgICAgICAgYW5kcm9pZDp0ZXh0Q29sb3I9IkBhbmRyb2lkOmNvbG9yL2hvbG9fb3JhbmdlX2RhcmsiCiAgICAgICAgYW5kcm9pZDp2aXNpYmlsaXR5PSJnb25lIgogICAgICAgIGFuZHJvaWQ6dGV4dD0iQHN0cmluZy9zcGVlY2hSZWNvZ25pdGlvbkRpc2FibGVkX3RleHQiLz4KCiAgICA8VGV4dFZpZXcKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgIGFuZHJvaWQ6dGV4dD0iUGxlYXNlIHNheSB5b3VyIFBJTiIKICAgICAgICBhbmRyb2lkOnRleHRTaXplPSIyNWRwIi8+CiAgICA8VGV4dFZpZXcKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvbG9naW5QaW5fdGV4dCIKICAgICAgICBhbmRyb2lkOm1heExlbmd0aD0iMiIgLz4KICAgIDxUZXh0VmlldwogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9sb2dpbkludmFsaWRNZXNzYWdlX3RleHQiCiAgICAgICAgYW5kcm9pZDp0ZXh0Q29sb3I9IkBhbmRyb2lkOmNvbG9yL2hvbG9fcmVkX2xpZ2h0Ii8+CjwvTGluZWFyTGF5b3V0Pgo=</text>
       </register>
       <register name="-" type="4">
         <text />
       </register>
       <register name="/" type="4">
         <text>Following</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPExpbmVhckxheW91dAogICAgeG1sbnM6YW5kcm9pZD0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vYXBrL3Jlcy9hbmRyb2lkIgogICAgeG1sbnM6dG9vbHM9Imh0dHA6Ly9zY2hlbWFzLmFuZHJvaWQuY29tL3Rvb2xzIgogICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9Im1hdGNoX3BhcmVudCIKICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0ibWF0Y2hfcGFyZW50IgogICAgYW5kcm9pZDpwYWRkaW5nQm90dG9tPSJAZGltZW4vYWN0aXZpdHlfdmVydGljYWxfbWFyZ2luIgogICAgYW5kcm9pZDpwYWRkaW5nTGVmdD0iQGRpbWVuL2FjdGl2aXR5X2hvcml6b250YWxfbWFyZ2luIgogICAgYW5kcm9pZDpwYWRkaW5nUmlnaHQ9IkBkaW1lbi9hY3Rpdml0eV9ob3Jpem9udGFsX21hcmdpbiIKICAgIGFuZHJvaWQ6cGFkZGluZ1RvcD0iQGRpbWVuL2FjdGl2aXR5X3ZlcnRpY2FsX21hcmdpbiIKICAgIHRvb2xzOmNvbnRleHQ9Ii5BY3Rpdml0aWVzLl8wX0xvZ2luQWN0aXZpdHkuTG9naW5BY3Rpdml0eSIKICAgIGFuZHJvaWQ6b3JpZW50YXRpb249InZlcnRpY2FsIj4KICAgIDxUZXh0VmlldwogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9zcGVlY2hSZWNvZ25pdGlvbkVuYWJsZWRfdGV4dDAiCiAgICAgICAgYW5kcm9pZDp0ZXh0Q29sb3I9IkBhbmRyb2lkOmNvbG9yL2hvbG9fb3JhbmdlX2RhcmsiCiAgICAgICAgYW5kcm9pZDp2aXNpYmlsaXR5PSJnb25lIgogICAgICAgIGFuZHJvaWQ6dGV4dD0iQHN0cmluZy9zcGVlY2hSZWNvZ25pdGlvbkRpc2FibGVkX3RleHQiLz4KCiAgICA8VGV4dFZpZXcKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgIGFuZHJvaWQ6dGV4dD0iUGxlYXNlIHNheSB5b3VyIFBJTiIKICAgICAgICBhbmRyb2lkOnRleHRTaXplPSIyNWRwIi8+CiAgICA8VGV4dFZpZXcKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IgogICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvbG9naW5QaW5fdGV4dCIKICAgICAgICBhbmRyb2lkOm1heExlbmd0aD0iMiIgLz4KICAgIDxUZXh0VmlldwogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9sb2dpbkludmFsaWRNZXNzYWdlX3RleHQiCiAgICAgICAgYW5kcm9pZDp0ZXh0Q29sb3I9IkBhbmRyb2lkOmNvbG9yL2hvbG9fcmVkX2xpZ2h0Ii8+CjwvTGluZWFyTGF5b3V0Pgo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBQYXVzZUFjdGl2aXR5KCkKICAgIHsKICAgICAgICAKICAgIH0K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBpbnQgZ2V0SW5kZXgoKQogICAgewogICAgICAgIHJldHVybiBpbmRleC5nZXROdW1WYWx1ZSgpOwogICAgfQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIH0K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICByZXR1cm4gaW5kZXguZ2V0TnVtVmFsdWUoKTsK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHsK</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBpbnQgZ2V0SW5kZXgoKQo=</text>
       </register>
     </registers>
     <search>
@@ -115,6 +158,8 @@
         <entry>Following</entry>
       </history-search>
       <history-cmd />
+      <history-expr />
+      <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
@@ -131,6 +176,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
