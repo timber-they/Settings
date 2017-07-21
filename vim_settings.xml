@@ -50,16 +50,9 @@
         <mark key="^" line="21" column="54" />
       </file>
       <file name="D:/Documents/mercatis/recon-jet-pro/ReconWareHouse/app/src/main/java/de/mercatis/reconwarehouse/Activities/_51_PauseActivity/PauseActivity.java" timestamp="1500549548317">
-        <mark key="[" line="31" column="5" />
-        <mark key="]" line="32" column="0" />
-        <mark key="^" line="33" column="3" />
-        <mark key="." line="32" column="0" />
-      </file>
-      <file name="D:/Documents/mercatis/recon-jet-pro/ReconWareHouse/app/src/main/java/de/mercatis/reconwarehouse/LisaCommunication.java" timestamp="1500552744939">
-        <mark key="[" line="148" column="5" />
-        <mark key="]" line="150" column="5" />
-        <mark key="^" line="148" column="4" />
-        <mark key="." line="148" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="38" column="3" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="D:/Documents/mercatis/recon-jet-pro/ReconWareHouse/app/src/main/java/de/mercatis/reconwarehouse/Activities/_20_CustomerInformationActivity/CustomerInformationActivity.java" timestamp="1500474137662">
         <mark key="[" line="24" column="0" />
@@ -69,13 +62,6 @@
       <file name="D:/Documents/mercatis/recon-jet-pro/ReconWareHouse/app/src/main/res/layout/activity_login.xml" timestamp="1500547630610">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="35" column="14" />
-      </file>
-      <file name="D:/Documents/mercatis/recon-jet-pro/ReconWareHouse/app/src/main/java/de/mercatis/reconwarehouse/Activities/BaseActivity.java" timestamp="1500652031670">
-        <mark key="'" line="118" column="117" />
-        <mark key="[" line="117" column="25" />
-        <mark key="]" line="132" column="24" />
-        <mark key="^" line="132" column="24" />
-        <mark key="." line="132" column="24" />
       </file>
       <file name="D:/Documents/mercatis/recon-jet-pro/ReconWareHouse/app/src/main/java/de/mercatis/reconwarehouse/Activities/_30_SelectLHMTypeActivity/SelectLHMTypeActivity.java" timestamp="1500546925504">
         <mark key="[" line="38" column="0" />
@@ -93,7 +79,7 @@
         <mark key="[" line="12" column="0" />
         <mark key="]" line="18" column="62" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500652113169">
+      <file name="/Dummy.txt" timestamp="1500652439812">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="D:/Documents/mercatis/recon-jet-pro/ReconWareHouse/app/src/main/res/layout/activity_not_enough_taken.xml" timestamp="1500549766011">
@@ -120,10 +106,9 @@
         <mark key="." line="16" column="3" />
       </file>
       <file name="D:/Documents/mercatis/recon-jet-pro/ReconWareHouse/app/src/main/java/de/mercatis/reconwarehouse/Activities/_0_LoginActivity/LoginActivity.java" timestamp="1500651230996">
-        <mark key="[" line="39" column="8" />
-        <mark key="]" line="76" column="29" />
-        <mark key="." line="76" column="29" />
-        <mark key="^" line="76" column="29" />
+        <mark key="]" line="72" column="29" />
+        <mark key="." line="72" column="29" />
+        <mark key="^" line="72" column="29" />
       </file>
       <file name="D:/Documents/mercatis/recon-jet-pro/ReconWareHouse/app/src/main/java/de/mercatis/reconwarehouse/Activities/_54_NotEnoughTakenActivity/NotEnoughTakenActivity.java" timestamp="1500550193266">
         <mark key="[" line="31" column="5" />
