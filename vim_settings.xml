@@ -9,11 +9,11 @@
         <mark key="^" line="22" column="55" />
         <mark key="." line="8" column="100" />
       </file>
-      <file name="D:/Documents/mercatis/recon-jet-pro/Femaluation/app/src/main/java/de/teemze/femaluation/Factor.java" timestamp="1500808369037">
-        <mark key="[" line="11" column="5" />
-        <mark key="]" line="10" column="28" />
-        <mark key="^" line="10" column="28" />
-        <mark key="." line="10" column="28" />
+      <file name="D:/Documents/mercatis/recon-jet-pro/Femaluation/app/src/main/java/de/teemze/femaluation/Factor.java" timestamp="1500812441697">
+        <mark key="[" line="6" column="12" />
+        <mark key="]" line="6" column="12" />
+        <mark key="^" line="19" column="32" />
+        <mark key="." line="6" column="12" />
       </file>
       <file name="D:/Documents/mercatis/recon-jet-pro/ReconWareHouse/app/src/main/java/de/mercatis/reconwarehouse/Activities/_55_LastPrinterScanningActivity/LastPrinterScanningActivity.java" timestamp="1500550277280">
         <mark key="[" line="30" column="5" />
@@ -53,6 +53,12 @@
         <mark key="^" line="54" column="3" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="D:/Documents/mercatis/recon-jet-pro/Femaluation/app/src/main/res/layout-v21/fragment_main.xml" timestamp="1500814089592">
+        <mark key="[" line="16" column="30" />
+        <mark key="]" line="16" column="30" />
+        <mark key="^" line="16" column="40" />
+        <mark key="." line="16" column="30" />
+      </file>
       <file name="D:/Documents/mercatis/recon-jet-pro/ReconWareHouse/app/src/main/java/de/mercatis/reconwarehouse/Activities/_20_CustomerInformationActivity/CustomerInformationActivity.java" timestamp="1500474137662">
         <mark key="[" line="24" column="0" />
         <mark key="]" line="24" column="0" />
@@ -71,7 +77,7 @@
         <mark key="[" line="12" column="0" />
         <mark key="]" line="18" column="62" />
       </file>
-      <file name="/Dummy.txt" timestamp="1500808232272">
+      <file name="/Dummy.txt" timestamp="1500814415222">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="^" line="0" column="0" />
@@ -89,18 +95,21 @@
         <mark key="^" line="6" column="11" />
         <mark key="." line="6" column="11" />
       </file>
-      <file name="D:/Documents/mercatis/recon-jet-pro/Femaluation/app/src/main/java/de/teemze/femaluation/GlobalProperties.java" timestamp="1500808359682">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
+      <file name="D:/Documents/mercatis/recon-jet-pro/Femaluation/app/src/main/java/de/teemze/femaluation/GlobalProperties.java" timestamp="1500813825333">
+        <mark key="[" line="30" column="35" />
+        <mark key="]" line="32" column="22" />
+        <mark key="^" line="32" column="22" />
+        <mark key="." line="32" column="22" />
       </file>
       <file name="D:/Documents/mercatis/recon-jet-pro/ReconWareHouse/app/src/main/java/de/mercatis/reconwarehouse/Activities/_70_TargetStorageScanningActivity/TargetStorageScanningActivity.java" timestamp="1500474644245">
         <mark key="[" line="19" column="1" />
         <mark key="]" line="19" column="1" />
         <mark key="." line="19" column="1" />
       </file>
-      <file name="D:/Documents/mercatis/recon-jet-pro/Femaluation/app/src/main/res/values/colors.xml" timestamp="1500807461798">
+      <file name="D:/Documents/mercatis/recon-jet-pro/Femaluation/app/src/main/res/values/colors.xml" timestamp="1500812127354">
         <mark key="[" line="4" column="37" />
+        <mark key="]" line="4" column="37" />
+        <mark key="." line="4" column="37" />
       </file>
       <file name="D:/Documents/mercatis/recon-jet-pro/ReconWareHouse/app/src/main/res/layout/activity_region_picking.xml" timestamp="1500554379710">
         <mark key="[" line="13" column="55" />
@@ -119,6 +128,11 @@
         <mark key="." line="33" column="0" />
         <mark key="^" line="26" column="45" />
       </file>
+      <file name="D:/Documents/mercatis/recon-jet-pro/Femaluation/app/build/intermediates/res/merged/debug/values/values.xml" timestamp="1500812108390">
+        <mark key="[" line="29" column="37" />
+        <mark key="]" line="29" column="37" />
+        <mark key="." line="29" column="37" />
+      </file>
       <file name="D:/Documents/mercatis/recon-jet-pro/ReconWareHouse/app/src/main/java/de/mercatis/reconwarehouse/Activities/_53_CountActivity/CountActivity.java" timestamp="1500550090724">
         <mark key="[" line="31" column="5" />
         <mark key="]" line="33" column="0" />
@@ -128,12 +142,14 @@
       <file name="D:/Documents/mercatis/recon-jet-pro/ReconWareHouse/app/src/main/java/de/mercatis/reconwarehouse/Activities/_65_PhotoActivity/PhotoActivity.java" timestamp="1500473590002">
         <mark key="[" line="5" column="63" />
       </file>
-      <file name="D:/Documents/mercatis/recon-jet-pro/Femaluation/app/src/main/java/de/teemze/femaluation/MainActivity.java" timestamp="1500808342029">
-        <mark key="[" line="100" column="107" />
-        <mark key="]" line="100" column="106" />
-        <mark key="." line="100" column="106" />
-        <mark key="^" line="100" column="106" />
+      <file name="D:/Documents/mercatis/recon-jet-pro/Femaluation/app/src/main/java/de/teemze/femaluation/MainActivity.java" timestamp="1500814376595">
+        <mark key="'" line="151" column="0" />
+        <mark key="[" line="131" column="31" />
+        <mark key="]" line="129" column="46" />
+        <mark key="." line="129" column="46" />
+        <mark key="^" line="129" column="46" />
       </file>
+      <file name="D:/Documents/mercatis/recon-jet-pro/Femaluation/app/src/main/res/layout/fragment_main.xml" timestamp="1500812218483" />
       <file name="D:/Documents/mercatis/recon-jet-pro/ReconWareHouse/app/src/main/res/layout/activity_last_printer_scanning.xml" timestamp="1500549750636">
         <mark key="[" line="15" column="55" />
         <mark key="]" line="18" column="63" />
@@ -144,6 +160,11 @@
         <mark key="[" line="15" column="55" />
         <mark key="]" line="18" column="63" />
         <mark key="." line="12" column="0" />
+      </file>
+      <file name="D:/Documents/mercatis/recon-jet-pro/Femaluation/app/src/main/res/layout/fragment_result.xml" timestamp="1500814318051">
+        <mark key="[" line="5" column="50" />
+        <mark key="]" line="1" column="1" />
+        <mark key="." line="1" column="1" />
       </file>
       <file name="D:/Documents/mercatis/recon-jet-pro/Femaluation/app/src/main/AndroidManifest.xml" timestamp="1500807418583">
         <mark key="[" line="10" column="39" />
@@ -177,6 +198,8 @@
       <jump line="0" column="0" filename="D:/Documents/mercatis/recon-jet-pro/ReconWareHouse/app/src/main/res/layout/activity_last_printer_scanning.xml" />
       <jump line="0" column="0" filename="D:/Documents/mercatis/recon-jet-pro/ReconWareHouse/app/src/main/res/layout/activity_unload.xml" />
       <jump line="118" column="117" filename="D:/Documents/mercatis/recon-jet-pro/ReconWareHouse/app/src/main/java/de/mercatis/reconwarehouse/Activities/BaseActivity.java" />
+      <jump line="102" column="70" filename="D:/Documents/mercatis/recon-jet-pro/Femaluation/app/src/main/java/de/teemze/femaluation/MainActivity.java" />
+      <jump line="118" column="0" filename="D:/Documents/mercatis/recon-jet-pro/Femaluation/app/src/main/java/de/teemze/femaluation/MainActivity.java" />
     </jumps>
     <registers>
       <register name="a" type="4">
@@ -190,14 +213,14 @@
           <key char="36" code="0" mods="0" />
         </keys>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIC8vIFNob3cgMyB0b3RhbCBwYWdlcy4=</text>
       </register>
       <register name="i" type="4">
         <text>)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Z2V0U3RyaW5nKFIuc3RyaW5nLnNlY3Rpb25fZm9ybWF0LCA=</text>
+        <text>max</text>
       </register>
       <register name="/" type="4">
         <text>Following</text>
@@ -205,32 +228,33 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxUZXh0VmlldwogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9zcGVlY2hSZWNvZ25pdGlvbkVuYWJsZWRfdGV4dDIiCiAgICAgICAgYW5kcm9pZDp0ZXh0Q29sb3I9IkBhbmRyb2lkOmNvbG9yL2hvbG9fb3JhbmdlX2RhcmsiCiAgICAgICAgYW5kcm9pZDp2aXNpYmlsaXR5PSJnb25lIgogICAgICAgIGFuZHJvaWQ6dGV4dD0iQHN0cmluZy9zcGVlY2hSZWNvZ25pdGlvbkRpc2FibGVkX3RleHQiLz4K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">CiAgICAgICAgICAgIC8vIFNob3cgMyB0b3RhbCBwYWdlcy4=</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgCg==</text>
+      <register name="2" type="4">
+        <text>&quot;
+        android:inputType=&quot;textMultiLine&quot;</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3dpdGNoIChnZXRBcmd1bWVudHMoKS5nZXRJbnQoQVJHX1NFQ1RJT05fTlVNQkVSKSkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgY2FzZSAKICAgICAgICAgICAgfQo=</text>
+      <register name="3" type="4">
+        <text encoding="base64">CiAgICAgICAgYW5kcm9pZDp3</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc3dpdGNoIChwb3NpdGlvbikKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgY2FzZSAwOgogICAgICAgICAgICAgICAgICAgIHJldHVybiAiU0VDVElPTiAxIjsKICAgICAgICAgICAgICAgIGNhc2UgMToKICAgICAgICAgICAgICAgICAgICByZXR1cm4gIlNFQ1RJT04gMiI7CiAgICAgICAgICAgICAgICBjYXNlIDI6CiAgICAgICAgICAgICAgICAgICAgcmV0dXJuICJTRUNUSU9OIDMiOwogICAgICAgICAgICB9agogICAgICAgICAgICByZXR1cm4gbnVsbDsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgcHJvZ3Jlc3NCYXIuc2V0UHJvZ3Jlc3NUaW50TW9kZShNb2RlKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBUb29sYmFyIHRvb2xiYXIgPSAoVG9vbGJhcikgZmluZFZpZXdCeUlkKFIuaWQudG9vbGJhcik7CiAgICAgICAgc2V0U3VwcG9ydEFjdGlvbkJhcih0b29sYmFyKTsK</text>
+        <text encoding="base64">QGNvbG9yL2NvbG9yUHJpbWFyeQo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">CgogICAgPGFuZHJvaWQuc3VwcG9ydC5kZXNpZ24ud2lkZ2V0LkFwcEJhckxheW91dAogICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvYXBwYmFyIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgYW5kcm9pZDpwYWRkaW5nVG9wPSJAZGltZW4vYXBwYmFyX3BhZGRpbmdfdG9wIgogICAgICAgIGFuZHJvaWQ6dGhlbWU9IkBzdHlsZS9BcHBUaGVtZS5BcHBCYXJPdmVybGF5Ij4KCiAgICAgICAgPGFuZHJvaWQuc3VwcG9ydC52Ny53aWRnZXQuVG9vbGJhcgogICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3Rvb2xiYXIiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJtYXRjaF9wYXJlbnQiCiAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0iP2F0dHIvYWN0aW9uQmFyU2l6ZSIKICAgICAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSI/YXR0ci9jb2xvclByaW1hcnkiCiAgICAgICAgICAgIGFwcDpsYXlvdXRfc2Nyb2xsRmxhZ3M9InNjcm9sbHxlbnRlckFsd2F5cyIKICAgICAgICAgICAgYXBwOnBvcHVwVGhlbWU9IkBzdHlsZS9BcHBUaGVtZS5Qb3B1cE92ZXJsYXkiPgoKICAgICAgICA8L2FuZHJvaWQuc3VwcG9ydC52Ny53aWRnZXQuVG9vbGJhcj4KCiAgICA8L2FuZHJvaWQuc3VwcG9ydC5kZXNpZ24ud2lkZ2V0LkFwcEJhckxheW91dD4=</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIDxjb2xvciBuYW1lPSJjb2xvckFjY2VudCI+IzQyNDI0MiM8L2NvbG9yPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIGJvb2xlYW4gb25PcHRpb25zSXRlbVNlbGVjdGVkKE1lbnVJdGVtIGl0ZW0pCiAgICB7CiAgICAgICAgLy8gSGFuZGxlIGFjdGlvbiBiYXIgaXRlbSBjbGlja3MgaGVyZS4gVGhlIGFjdGlvbiBiYXIgd2lsbAogICAgICAgIC8vIGF1dG9tYXRpY2FsbHkgaGFuZGxlIGNsaWNrcyBvbiB0aGUgSG9tZS9VcCBidXR0b24sIHNvIGxvbmcKICAgICAgICAvLyBhcyB5b3Ugc3BlY2lmeSBhIHBhcmVudCBhY3Rpdml0eSBpbiBBbmRyb2lkTWFuaWZlc3QueG1sLgogICAgICAgIGludCBpZCA9IGl0ZW0uZ2V0SXRlbUlkKCk7CgogICAgICAgIC8vbm9pbnNwZWN0aW9uIFNpbXBsaWZpYWJsZUlmU3RhdGVtZW50CiAgICAgICAgaWYgKGlkID09IFIuaWQuYWN0aW9uX3NldHRpbmdzKQogICAgICAgIHsKICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgfQoKICAgICAgICByZXR1cm4gc3VwZXIub25PcHRpb25zSXRlbVNlbGVjdGVkKGl0ZW0pOwoK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc3dpdGNoIChnZXRBcmd1bWVudHMoKS5nZXRJbnQoQVJHX1NFQ1RJT05fTlVNQkVSKSkKICAgICAgICAgICAgewogICAgICAgICAgICAgICAgY2FzZSAKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name=":" type="4">
         <text>help</text>
