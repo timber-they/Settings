@@ -1,7 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'emu30XProMV_source_from_cfr'" />
-    <option name="defaultScopeName" value="Project 'emu30XProMV_source_from_cfr'" />
-    <option name="SEARCH_SCOPE" value="Project 'emu30XProMV_source_from_cfr'" />
+    <option name="customScope" value="Project 'ReconWareHouse'" />
+    <option name="defaultScopeName" value="Project 'ReconWareHouse'" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="Project 'ReconWareHouse'" />
   </component>
 </application>
