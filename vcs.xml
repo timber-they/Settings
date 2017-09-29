@@ -18,8 +18,16 @@
           <option name="url" value="https://github.com/MetaColon/Femaluation.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitlab.com/sevenmaster1/ReconWareHouse" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://gitlab.com" />
+          <option name="userName" value="timo@teemze.de" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Meta Colon\Documents\mercatis\recon-jet-pro" />
+    <option name="cloneParentDir" value="$USER_HOME$" />
   </component>
 </application>
