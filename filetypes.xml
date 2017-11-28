@@ -8,8 +8,8 @@
       <mapping pattern="variances" type="PLAIN_TEXT" />
       <mapping pattern="means" type="PLAIN_TEXT" />
       <mapping ext="gram" type="PLAIN_TEXT" />
-      <mapping ext="30xpromvstate" type="PLAIN_TEXT" />
       <mapping ext="javaclass" type="PLAIN_TEXT" />
+      <mapping ext="30xpromvstate" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
