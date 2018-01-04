@@ -18,8 +18,24 @@
           <option name="url" value="https://github.com/MetaColon/Femaluation.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://2b1gmbh.visualstudio.com/EFC2_AndroidApp/_git/efc2AndroidApp" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:sevenmaster/MDE.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="MetaColon@github.com:sevenmaster/MDE.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/sevenmaster/MDE.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Users\Meta Colon\Documents\mercatis\recon-jet-pro" />
+    <option name="cloneParentDir" value="C:\Users\Meta Colon\Documents\mercatis" />
   </component>
 </application>
