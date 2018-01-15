@@ -86,22 +86,28 @@
     </option>
     <option name="DEFAULT_GLOBAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="dd4a22" />
+        <option name="FOREGROUND" value="ff7900" />
+      </value>
+    </option>
+    <option name="DEFAULT_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="cedcec" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
       <value>
-        <option name="FOREGROUND" value="dd4a22" />
+        <option name="FOREGROUND" value="ff6b00" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_METHOD">
       <value>
         <option name="FOREGROUND" value="fdfe" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_INTERFACE_NAME">
       <value>
-        <option name="FOREGROUND" value="e2af00" />
+        <option name="FOREGROUND" value="f2ea89" />
       </value>
     </option>
     <option name="DEFAULT_KEYWORD">
@@ -117,7 +123,7 @@
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
       <value>
-        <option name="FOREGROUND" value="9c0001" />
+        <option name="FOREGROUND" value="9c0000" />
       </value>
     </option>
     <option name="DEFAULT_PARENTHS">
@@ -127,7 +133,7 @@
     </option>
     <option name="DEFAULT_STATIC_FIELD">
       <value>
-        <option name="FOREGROUND" value="dd4a22" />
+        <option name="FOREGROUND" value="ff7900" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -204,7 +210,7 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="c0cedd" />
+        <option name="FOREGROUND" value="d2e1f0" />
         <option name="BACKGROUND" value="1e1e1e" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
