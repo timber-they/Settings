@@ -66,17 +66,19 @@
     </filter>
   </component>
   <component name="XDebuggerSettings">
-    <data-views />
+    <data-views>
+      <option name="valueLookupDelay" value="150" />
+    </data-views>
     <general />
     <debuggers>
-      <debugger id="ObjectiveC">
+      <debugger id="dotnet_debugger">
         <configuration>
-          <option name="VALUES_FILTER_ENABLED" value="false" />
+          <option name="needNotifyWhenStoppedInExternalCode" value="false" />
         </configuration>
       </debugger>
-      <debugger id="kotlin_debugger">
+      <debugger id="javascript">
         <configuration>
-          <option name="DEBUG_IS_FILTER_FOR_STDLIB_ALREADY_ADDED" value="true" />
+          <custom-object-presentation />
         </configuration>
       </debugger>
     </debuggers>
