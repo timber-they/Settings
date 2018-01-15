@@ -99,6 +99,11 @@
         <option name="FOREGROUND" value="fdfe" />
       </value>
     </option>
+    <option name="DEFAULT_INTERFACE_NAME">
+      <value>
+        <option name="FOREGROUND" value="e2af00" />
+      </value>
+    </option>
     <option name="DEFAULT_KEYWORD">
       <value>
         <option name="FOREGROUND" value="2b90ae" />
