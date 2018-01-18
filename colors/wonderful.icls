@@ -56,6 +56,7 @@
     <option name="DEFAULT_CLASS_NAME">
       <value>
         <option name="FOREGROUND" value="4ec8af" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_REFERENCE">
@@ -123,7 +124,12 @@
     </option>
     <option name="DEFAULT_OPERATION_SIGN">
       <value>
-        <option name="FOREGROUND" value="9c0000" />
+        <option name="FOREGROUND" value="9c0001" />
+      </value>
+    </option>
+    <option name="DEFAULT_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="e2dcec" />
       </value>
     </option>
     <option name="DEFAULT_PARENTHS">
@@ -193,6 +199,7 @@
     <option name="ReSharper.NAMESPACE_IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="e6bf60" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="STATIC_FIELD_ATTRIBUTES">
