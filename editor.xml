@@ -1,6 +1,16 @@
 <application>
+  <component name="EditorSettings">
+    <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
+  </component>
   <component name="SqlEditorOptions">
     <option name="concatenateStringsOnEnter" value="true" />
     <option name="qualificationType" value="On collisions" />
+  </component>
+  <component name="TodoConfiguration">
+    <pattern icon="question" pattern="(?&lt;=\W|^)(?&lt;TAG&gt;TODO)(\W|$)(.*)" />
+    <pattern icon="question" pattern="(?&lt;=\W|^)(?&lt;TAG&gt;ENHANCEMENT)(\W|$)(.*)" />
+    <pattern icon="important" pattern="(?&lt;=\W|^)(?&lt;TAG&gt;BUG)(\W|$)(.*)" />
+    <pattern icon="question" pattern="(?&lt;=\W|^)(?&lt;TAG&gt;VALIDATE)(\W|$)(.*)" />
+    <pattern pattern="\bNotImplementedException\b" />
   </component>
 </application>
