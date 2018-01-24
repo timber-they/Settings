@@ -1,14 +1,15 @@
 <scheme name="wonderful" version="142" parent_scheme="Darcula">
-  <option name="FONT_SCALE" value="1.0" />
+  <option name="FONT_SCALE" value="1.25" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Consolas" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_SIZE" value="18" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Monospaced" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_SIZE" value="23" />
   </font>
   <option name="CONSOLE_FONT_NAME" value="Consolas" />
+  <option name="CONSOLE_FONT_SIZE" value="15" />
   <colors>
     <option name="LINE_NUMBERS_COLOR" value="2b90ae" />
   </colors>
@@ -56,6 +57,7 @@
     <option name="DEFAULT_CLASS_NAME">
       <value>
         <option name="FOREGROUND" value="4ec8af" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_CLASS_REFERENCE">
@@ -86,22 +88,28 @@
     </option>
     <option name="DEFAULT_GLOBAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="dd4a22" />
+        <option name="FOREGROUND" value="ff7900" />
+      </value>
+    </option>
+    <option name="DEFAULT_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="cedcec" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
       <value>
-        <option name="FOREGROUND" value="dd4a22" />
+        <option name="FOREGROUND" value="ff6b00" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_METHOD">
       <value>
         <option name="FOREGROUND" value="fdfe" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_INTERFACE_NAME">
       <value>
-        <option name="FOREGROUND" value="e2af00" />
+        <option name="FOREGROUND" value="f2ea89" />
       </value>
     </option>
     <option name="DEFAULT_KEYWORD">
@@ -120,6 +128,11 @@
         <option name="FOREGROUND" value="9c0001" />
       </value>
     </option>
+    <option name="DEFAULT_PARAMETER">
+      <value>
+        <option name="FOREGROUND" value="e2dcec" />
+      </value>
+    </option>
     <option name="DEFAULT_PARENTHS">
       <value>
         <option name="FOREGROUND" value="90fd8b" />
@@ -127,7 +140,7 @@
     </option>
     <option name="DEFAULT_STATIC_FIELD">
       <value>
-        <option name="FOREGROUND" value="dd4a22" />
+        <option name="FOREGROUND" value="ff7900" />
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
@@ -187,6 +200,7 @@
     <option name="ReSharper.NAMESPACE_IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="e6bf60" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="STATIC_FIELD_ATTRIBUTES">
@@ -204,7 +218,7 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="c0cedd" />
+        <option name="FOREGROUND" value="d2e1f0" />
         <option name="BACKGROUND" value="1e1e1e" />
         <option name="EFFECT_TYPE" value="5" />
       </value>

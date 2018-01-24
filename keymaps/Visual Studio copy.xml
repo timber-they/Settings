@@ -1,0 +1,5 @@
+<keymap version="1" name="Visual Studio copy" parent="Visual Studio">
+  <action id="ActivateStructureToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl alt f" />
+  </action>
+</keymap>
