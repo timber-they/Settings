@@ -1,4 +1,4 @@
-<code_scheme name="Default" version="173">
+<code_scheme name="Default">
   <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
   <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
   <option name="PACKAGES_TO_USE_IMPORT_ON_DEMAND">
@@ -30,38 +30,6 @@
   <AndroidXmlCodeStyleSettings>
     <option name="USE_CUSTOM_SETTINGS" value="true" />
   </AndroidXmlCodeStyleSettings>
-  <JSCodeStyleSettings>
-    <option name="FUNCTION_EXPRESSION_BRACE_STYLE" value="2" />
-  </JSCodeStyleSettings>
-  <JavaCodeStyleSettings>
-    <option name="CLASS_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
-    <option name="NAMES_COUNT_TO_USE_IMPORT_ON_DEMAND" value="99" />
-    <option name="PACKAGES_TO_USE_IMPORT_ON_DEMAND">
-      <value />
-    </option>
-    <option name="IMPORT_LAYOUT_TABLE">
-      <value>
-        <package name="android" withSubpackages="true" static="false" />
-        <emptyLine />
-        <package name="com" withSubpackages="true" static="false" />
-        <emptyLine />
-        <package name="junit" withSubpackages="true" static="false" />
-        <emptyLine />
-        <package name="net" withSubpackages="true" static="false" />
-        <emptyLine />
-        <package name="org" withSubpackages="true" static="false" />
-        <emptyLine />
-        <package name="java" withSubpackages="true" static="false" />
-        <emptyLine />
-        <package name="javax" withSubpackages="true" static="false" />
-        <emptyLine />
-        <package name="" withSubpackages="true" static="false" />
-        <emptyLine />
-        <package name="" withSubpackages="true" static="true" />
-        <emptyLine />
-      </value>
-    </option>
-  </JavaCodeStyleSettings>
   <Objective-C-extensions>
     <file>
       <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="Import" />
@@ -93,10 +61,24 @@
     <option name="XML_SPACE_INSIDE_EMPTY_TAG" value="true" />
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
-  <codeStyleSettings language="JavaScript">
+  <codeStyleSettings language="JAVA">
     <option name="BRACE_STYLE" value="2" />
     <option name="CLASS_BRACE_STYLE" value="2" />
     <option name="METHOD_BRACE_STYLE" value="2" />
+    <option name="CATCH_ON_NEW_LINE" value="true" />
+    <option name="FINALLY_ON_NEW_LINE" value="true" />
+    <option name="ALIGN_MULTILINE_BINARY_OPERATION" value="true" />
+    <option name="ALIGN_MULTILINE_TERNARY_OPERATION" value="true" />
+    <option name="ALIGN_MULTILINE_ARRAY_INITIALIZER_EXPRESSION" value="true" />
+    <option name="ALIGN_GROUP_FIELD_DECLARATIONS" value="true" />
+    <option name="RESOURCE_LIST_WRAP" value="1" />
+    <option name="BINARY_OPERATION_WRAP" value="1" />
+    <option name="TERNARY_OPERATION_WRAP" value="1" />
+    <option name="ARRAY_INITIALIZER_WRAP" value="1" />
+    <option name="ASSIGNMENT_WRAP" value="1" />
+    <option name="ASSERT_STATEMENT_WRAP" value="1" />
+    <option name="ENUM_CONSTANTS_WRAP" value="1" />
+    <option name="WRAP_ON_TYPING" value="1" />
   </codeStyleSettings>
   <codeStyleSettings language="XML">
     <option name="FORCE_REARRANGE_MODE" value="1" />
