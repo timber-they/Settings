@@ -1,0 +1,3 @@
+<keymap version="1" name="Rider copy">
+  <action id="ActivateStructureToolWindow" />
+</keymap>

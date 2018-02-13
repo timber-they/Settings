@@ -1,7 +1,22 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'emu30XProMV_source_from_cfr'" />
-    <option name="defaultScopeName" value="Project 'emu30XProMV_source_from_cfr'" />
-    <option name="SEARCH_SCOPE" value="Project 'emu30XProMV_source_from_cfr'" />
+    <option name="customScope" value="Solution Explorer Selection" />
+    <option name="defaultScopeName" value="Solution Explorer Selection" />
+    <option name="localRegularExpressions" value="true" />
+    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
+    <option name="SEARCH_SCOPE" value="Solution Explorer Selection" />
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.java</mask>
+      <mask>*.js</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>*.p</mask>
+      <mask>*.php</mask>
+    </recentFileMasks>
   </component>
 </application>
