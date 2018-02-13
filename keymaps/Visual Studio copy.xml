@@ -2,4 +2,5 @@
   <action id="ActivateStructureToolWindow">
     <keyboard-shortcut first-keystroke="ctrl alt f" />
   </action>
+  <action id="Vcs.QuickListPopupAction" />
 </keymap>
