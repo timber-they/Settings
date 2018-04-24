@@ -1,6 +1,8 @@
 <application>
   <component name="DefaultFont">
+    <option name="FONT_SIZE" value="18" />
     <option name="FONT_FAMILY" value="Consolas" />
+    <option name="FONT_SCALE" value="1.5" />
   </component>
   <component name="EditorSettings">
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
@@ -15,5 +17,6 @@
     <pattern icon="important" pattern="(?&lt;=\W|^)(?&lt;TAG&gt;BUG)(\W|$)(.*)" />
     <pattern icon="question" pattern="(?&lt;=\W|^)(?&lt;TAG&gt;VALIDATE)(\W|$)(.*)" />
     <pattern pattern="\bNotImplementedException\b" />
+    <pattern icon="important" pattern="(?&lt;=\W|^)(?&lt;TAG&gt;DEPRECATED)(\W|$)(.*)" />
   </component>
 </application>
