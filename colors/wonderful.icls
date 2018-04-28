@@ -8,8 +8,6 @@
     <option name="EDITOR_FONT_NAME" value="Monospaced" />
     <option name="EDITOR_FONT_SIZE" value="18" />
   </font>
-  <option name="CONSOLE_FONT_NAME" value="Consolas" />
-  <option name="CONSOLE_FONT_SIZE" value="27" />
   <colors>
     <option name="LINE_NUMBERS_COLOR" value="2b90ae" />
   </colors>
