@@ -1,5 +1,6 @@
 <application>
   <component name="ExternalResourceManagerImpl">
     <ignored-resource url="urn:oasis:names:tc:xliff:document:1.2" />
+    <ignored-resource url="urn:schemas-microsoft-com:compatibility.v1" />
   </component>
 </application>
