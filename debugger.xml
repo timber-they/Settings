@@ -100,13 +100,11 @@
     <data-views>
       <option name="valueLookupDelay" value="150" />
     </data-views>
-    <general>
-      <evaluation-dialog-mode>CODE_FRAGMENT</evaluation-dialog-mode>
-    </general>
+    <general />
     <debuggers>
-      <debugger id="javascript">
+      <debugger id="ObjectiveC">
         <configuration>
-          <custom-object-presentation />
+          <option name="VALUES_FILTER_ENABLED" value="false" />
         </configuration>
       </debugger>
       <debugger id="kotlin_debugger">
