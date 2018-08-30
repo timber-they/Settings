@@ -13,6 +13,7 @@
   <option name="CONSOLE_FONT_NAME" value="Consolas" />
   <option name="CONSOLE_FONT_SIZE" value="12" />
   <colors>
+    <option name="GUTTER_BACKGROUND" value="242e36" />
     <option name="LINE_NUMBERS_COLOR" value="2b90ae" />
   </colors>
   <attributes>
