@@ -1,4 +1,7 @@
 <application>
+  <component name="EditorSettings">
+    <option name="IS_CAMEL_WORDS" value="true" />
+  </component>
   <component name="TodoConfiguration">
     <pattern icon="question" pattern="(?&lt;=\W|^)(?&lt;TAG&gt;TODO)(\W|$)(.*)" />
     <pattern icon="question" pattern="(?&lt;=\W|^)(?&lt;TAG&gt;ENHANCEMENT)(\W|$)(.*)" />
