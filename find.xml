@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'DPM'" />
-    <option name="defaultScopeName" value="Project 'DPM'" />
+    <option name="customScope" value="Module 'DPM_API_2.0'" />
+    <option name="defaultScopeName" value="Module 'DPM_API_2.0'" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'DPM'" />
+    <option name="SEARCH_SCOPE" value="Module 'DPM_API_2.0'" />
   </component>
 </application>
