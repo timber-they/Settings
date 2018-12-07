@@ -1,0 +1,7 @@
+<application>
+  <component name="GithubAccounts">
+    <account id="7266345b-b7ef-4f43-a347-8eb7d0d354db" name="metacolon">
+      <server host="github.com" />
+    </account>
+  </component>
+</application>

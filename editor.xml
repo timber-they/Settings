@@ -1,12 +1,8 @@
 <application>
-  <component name="DefaultFont">
-    <option name="FONT_SIZE" value="16" />
-    <option name="USE_LIGATURES" value="true" />
-  </component>
   <component name="EditorSettings">
+    <option name="SHOW_QUICK_DOC_ON_MOUSE_OVER_ELEMENT" value="true" />
+    <option name="QUICK_DOC_ON_MOUSE_OVER_DELAY_MS" value="700" />
     <option name="IS_CAMEL_WORDS" value="true" />
-    <option name="ADDITIONAL_PAGE_AT_BOTTOM" value="true" />
-    <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
   </component>
   <component name="TodoConfiguration">
     <pattern icon="question" pattern="(?&lt;=\W|^)(?&lt;TAG&gt;TODO)(\W|$)(.*)" />
@@ -14,8 +10,5 @@
     <pattern icon="important" pattern="(?&lt;=\W|^)(?&lt;TAG&gt;BUG)(\W|$)(.*)" />
     <pattern icon="question" pattern="(?&lt;=\W|^)(?&lt;TAG&gt;VALIDATE)(\W|$)(.*)" />
     <pattern pattern="\bNotImplementedException\b" />
-  </component>
-  <component name="XmlEditorOptions">
-    <option name="showCssInlineColorPreview" value="true" />
   </component>
 </application>
