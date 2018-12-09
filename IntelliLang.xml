@@ -1,10 +1,14 @@
 <application>
   <component name="LanguageInjectionConfiguration">
-    <injection language="Latex" injector-id="xml">
+    <injection language="Python" injector-id="xml">
+      <display-name>code</display-name>
+      <place><![CDATA[xmlTag().withLocalName(string().equalTo("code")).withNamespace(string().equalTo("http://www.w3.org/1999/html"))]]></place>
+    </injection>
+    <injection language="LaTeX" injector-id="xml">
       <display-name>p</display-name>
       <place><![CDATA[xmlTag().withLocalName(string().equalTo("p")).withNamespace(string().equalTo("http://www.w3.org/1999/html"))]]></place>
     </injection>
-    <injection language="LaTeX" injector-id="xml">
+    <injection language="Latex" injector-id="xml">
       <display-name>p</display-name>
       <place><![CDATA[xmlTag().withLocalName(string().equalTo("p")).withNamespace(string().equalTo("http://www.w3.org/1999/html"))]]></place>
     </injection>
