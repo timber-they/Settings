@@ -1,17 +1,7 @@
 <application>
   <component name="MaterialThemeConfig">
-    <option name="version" value="2.8.2" />
-    <option name="highlightColor" value="80cbc4" />
-    <option name="isContrastMode" value="true" />
-    <option name="accentColor" value="80cbc4" />
-    <option name="tabsHeight" value="25" />
-    <option name="isCompactStatusBar" value="true" />
-    <option name="isCompactTables" value="true" />
-    <option name="darkTitleBar" value="true" />
-    <option name="compactDropdowns" value="true" />
-    <option name="settingsSelectedTab" value="5" />
-    <option name="userId" value="4edfaf94:165881e362d:-7ffd" />
-    <option name="allowDataCollection" value="true" />
     <option name="isWizardShown" value="true" />
+    <option name="userId" value="-79fdab2e:1679c844dc2:-8000" />
+    <option name="version" value="3.1.0" />
   </component>
 </application>
