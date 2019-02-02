@@ -1,0 +1,19 @@
+<keymap version="1" name="Default copy 2" parent="$default">
+  <action id="EditorStartNewLineBefore" />
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="ctrl b" />
+    <mouse-shortcut keystroke="control button1" />
+    <mouse-shortcut keystroke="button2" />
+    <keyboard-shortcut first-keystroke="f12" />
+  </action>
+  <action id="JumpToLastWindow" />
+  <action id="QuickActionPopup" />
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
+    <keyboard-shortcut first-keystroke="ctrl alt enter" />
+  </action>
+  <action id="ShowUsages">
+    <keyboard-shortcut first-keystroke="ctrl alt f7" />
+    <keyboard-shortcut first-keystroke="f12" />
+  </action>
+</keymap>
