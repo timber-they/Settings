@@ -5,6 +5,8 @@
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
   <action id="Console.TableResult.DeleteRows" />
+  <action id="CopyElement" />
+  <action id="DatabaseView.CopyTable" />
   <action id="Editor Redo">
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
@@ -17,14 +19,24 @@
     <keyboard-shortcut first-keystroke="f12" />
   </action>
   <action id="JumpToLastWindow" />
+  <action id="ParameterInfo">
+    <keyboard-shortcut first-keystroke="ctrl p" />
+    <keyboard-shortcut first-keystroke="shift ctrl space" />
+  </action>
   <action id="QuickActionPopup" />
   <action id="ReformatCode">
     <keyboard-shortcut first-keystroke="ctrl alt l" />
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
+  </action>
+  <action id="Resume">
+    <keyboard-shortcut first-keystroke="f9" />
+    <keyboard-shortcut first-keystroke="f5" />
   </action>
   <action id="RiderUnitTestRunCurrentSessionTwAction" />
   <action id="ShowUsages">
     <keyboard-shortcut first-keystroke="ctrl alt f7" />
     <keyboard-shortcut first-keystroke="f12" />
   </action>
+  <action id="SmartTypeCompletion" />
+  <action id="UML.ApplyCurrentLayout" />
 </keymap>
