@@ -17,9 +17,9 @@
     <mask>js</mask>
     <mask>.tml</mask>
     <mask>*.js</mask>
-    <mask>*.tml</mask>
     <mask>ContractEdit*</mask>
     <mask>*.java</mask>
     <mask>*.sql</mask>
+    <mask>*.tml</mask>
   </component>
 </application>
