@@ -19,7 +19,7 @@
     <mask>*.java</mask>
     <mask>*.sql</mask>
     <mask>*.xml</mask>
-    <mask>*.tml</mask>
     <mask>*.properties</mask>
+    <mask>*.tml</mask>
   </component>
 </application>
