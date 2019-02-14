@@ -1,7 +1,11 @@
 <application>
-  <component name="CodeLensSettings">
+  <component name="CodeLensSettings" enabled="false">
     <enabled>
-      <map />
+      <map>
+        <entry key="Usages" value="false" />
+        <entry key="VcsAuthorCodeLensProvider" value="false" />
+      </map>
     </enabled>
+    <showUnavailable>false</showUnavailable>
   </component>
 </application>
