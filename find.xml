@@ -1,25 +1,25 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'DPM'" />
-    <option name="defaultScopeName" value="Project 'DPM'" />
+    <option name="customScope" value="Solution" />
+    <option name="defaultScopeName" value="Solution" />
     <option name="localRegularExpressions" value="true" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'DPM'" />
-    <option name="FILE_MASK" value="*.java" />
-    <mask>*.properties</mask>
+    <option name="SEARCH_SCOPE" value="Solution" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
-    <mask>*.xml</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>js</mask>
     <mask>.tml</mask>
-    <mask>*.js</mask>
-    <mask>*.tml</mask>
     <mask>ContractEdit*</mask>
     <mask>*.java</mask>
+    <mask>*.xml</mask>
+    <mask>*.properties</mask>
+    <mask>*.tml</mask>
+    <mask>*.sql</mask>
+    <mask>*.js</mask>
   </component>
 </application>

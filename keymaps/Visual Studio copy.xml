@@ -15,9 +15,7 @@
     <keyboard-shortcut first-keystroke="ctrl w" />
     <keyboard-shortcut first-keystroke="shift ctrl minus" />
   </action>
-  <action id="EditorStartNewLineBefore">
-    <keyboard-shortcut first-keystroke="alt f" />
-  </action>
+  <action id="EditorStartNewLineBefore" />
   <action id="EditorUnSelectWord">
     <keyboard-shortcut first-keystroke="shift ctrl w" />
   </action>
@@ -31,7 +29,7 @@
   </action>
   <action id="QuickActionPopup" />
   <action id="ReformatCode">
-    <keyboard-shortcut first-keystroke="alt f8" />
+    <keyboard-shortcut first-keystroke="ctrl alt f" />
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
   </action>
 </keymap>
