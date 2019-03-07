@@ -3,9 +3,14 @@
     <keyboard-shortcut first-keystroke="shift alt back_space" />
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="ctrl alt a" />
+  </action>
+  <action id="ChangesView.AddUnversioned" />
   <action id="Console.TableResult.DeleteRows" />
   <action id="CopyElement" />
   <action id="DatabaseView.CopyTable" />
+  <action id="Diagram.DeselectAll" />
   <action id="Editor Redo">
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
