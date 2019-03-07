@@ -2,8 +2,7 @@
   <component name="CodeLensSettings" enabled="false">
     <enabled>
       <map>
-        <entry key="Usages" value="false" />
-        <entry key="VcsAuthorCodeLensProvider" value="false" />
+        <entry key="Usages" value="true" />
       </map>
     </enabled>
     <showUnavailable>false</showUnavailable>
