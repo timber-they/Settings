@@ -8,5 +8,6 @@
     <pattern pattern="\bNotImplementedException\b" />
     <pattern icon="important" pattern="(?&lt;=\W|^)(?&lt;TAG&gt;BUG)(\W|$)(.*)" />
     <pattern icon="question" pattern="(?&lt;=\W|^)(?&lt;TAG&gt;TODO)(\W|$)(.*)" />
+    <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;VALIDATE)(\W|$)(.*)" />
   </component>
 </application>
