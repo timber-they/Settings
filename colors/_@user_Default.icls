@@ -3,9 +3,16 @@
     <property name="created">2018-06-30T15:32:13</property>
     <property name="ide">Rider</property>
     <property name="ideVersion">2018.1.2.0.0</property>
-    <property name="modified">2018-06-30T16:43:56</property>
+    <property name="modified">2019-04-01T18:51:46</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
+  <colors>
+    <option name="FILESTATUS_COPIED" value="629755" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="72a038" />
+    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
+    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="629755" />
+    <option name="FILESTATUS_RENAMED" value="3a8484" />
+  </colors>
   <attributes>
     <option name="DEFAULT_BRACES">
       <value>
