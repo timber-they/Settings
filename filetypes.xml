@@ -5,7 +5,6 @@
       <mapping pattern="test" type="CLASS" />
       <mapping ext="jacl" type="CLASS" />
       <mapping ext="jc" type="CLASS" />
-      <removed_mapping ext="manifest" type="Manifest File" />
       <mapping pattern="means" type="PLAIN_TEXT" />
       <mapping pattern="variances" type="PLAIN_TEXT" />
       <mapping pattern="wordsWithAbmelden" type="PLAIN_TEXT" />
@@ -13,7 +12,6 @@
       <mapping ext="gram" type="PLAIN_TEXT" />
       <mapping ext="snk" type="PLAIN_TEXT" />
       <mapping ext="javaclass" type="PLAIN_TEXT" />
-      <mapping ext="manifest" type="XML" />
     </extensionMap>
   </component>
 </application>
