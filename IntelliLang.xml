@@ -1,5 +1,9 @@
 <application>
   <component name="LanguageInjectionConfiguration">
+    <injection language="JavaScript" injector-id="java">
+      <display-name>JavaScriptSupport.addScript (org.apache.tapestry5.services.javascript)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("addScript").withParameters("org.apache.tapestry5.services.javascript.InitializationPriority", "java.lang.String", "java.lang.Object...").definedInClass("org.apache.tapestry5.services.javascript.JavaScriptSupport"))]]></place>
+    </injection>
     <injection language="Latex" injector-id="xml">
       <display-name>blockquote</display-name>
       <place><![CDATA[xmlTag().withLocalName(string().equalTo("blockquote")).withNamespace(string().equalTo("http://www.w3.org/1999/html"))]]></place>

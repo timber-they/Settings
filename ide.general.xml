@@ -12,5 +12,6 @@
     <entry key="search.everywhere.pattern.checking" value="false" />
     <entry key="ide.tree.horizontal.default.autoscrolling" value="false" />
     <entry key="git.explicit.commit.renames.prohibit.multiple.calls" value="false" />
+    <entry key="debugger.watches.in.variables" value="false" />
   </component>
 </application>
