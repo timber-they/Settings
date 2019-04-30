@@ -2,16 +2,15 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="klib" type="ARCHIVE" />
-      <mapping pattern="test" type="CLASS" />
-      <mapping ext="jacl" type="CLASS" />
-      <mapping ext="jc" type="CLASS" />
       <mapping pattern="means" type="PLAIN_TEXT" />
       <mapping pattern="variances" type="PLAIN_TEXT" />
       <mapping pattern="wordsWithAbmelden" type="PLAIN_TEXT" />
       <mapping ext="30xpromvstate" type="PLAIN_TEXT" />
       <mapping ext="gram" type="PLAIN_TEXT" />
-      <mapping ext="snk" type="PLAIN_TEXT" />
       <mapping ext="javaclass" type="PLAIN_TEXT" />
+      <mapping ext="jacl" type="CLASS" />
+      <mapping ext="jc" type="CLASS" />
+      <mapping pattern="test" type="CLASS" />
     </extensionMap>
   </component>
 </application>
