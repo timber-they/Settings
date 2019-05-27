@@ -17,5 +17,6 @@
     <mask>*.tml</mask>
     <mask>*.java</mask>
     <mask>*.js</mask>
+    <mask>*.config</mask>
   </component>
 </application>
