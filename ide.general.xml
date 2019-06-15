@@ -18,5 +18,6 @@
     <entry key="BSP.system.in.process" value="true" />
     <entry key="parameter.info.max.visible.rows" value="10" />
     <entry key="actionSystem.fix.alt.gr" value="false" />
+    <entry key="rider.enable.designer.winForms" value="false" />
   </component>
 </application>
