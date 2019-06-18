@@ -1,15 +1,15 @@
 <application>
   <component name="AbbreviationManager">
     <abbreviations>
-      <action id="RdExposingApiesNavigationAction" />
+      <action id="GotoSuperMethod" />
       <action id="GotoSymbol" />
       <action id="GotoClass" />
       <action id="NavigateTo" />
       <action id="GotoDeclaration" />
-      <action id="GotoSuperMethod" />
+      <action id="EditorCodeBlockStart" />
       <action id="GotoTypeDeclaration" />
       <action id="FileStructurePopup" />
-      <action id="EditorCodeBlockStart" />
+      <action id="RdExposingApiesNavigationAction" />
       <action id="GotoFile" />
       <action id="GotoImplementation" />
       <action id="SearchEverywhere" />
