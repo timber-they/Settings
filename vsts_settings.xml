@@ -1,13 +1,35 @@
 <application>
   <component name="VSTSSettings">
     <option name="serverContexts">
-      <array />
+      <array>
+        <ServerContextState>
+          <option name="type" value="VSO" />
+          <option name="uri" value="https://timo-borners.visualstudio.com" />
+          <option name="serverUri" value="https://timo-borners.visualstudio.com" />
+          <option name="userId" value="8f67a945-7292-4a04-bf40-a7ed87aea55a" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:null,&quot;name&quot;:null,&quot;url&quot;:null}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:null,&quot;name&quot;:null,&quot;revision&quot;:0,&quot;state&quot;:null,&quot;url&quot;:null}" />
+        </ServerContextState>
+        <ServerContextState>
+          <option name="type" value="VSO" />
+          <option name="uri" value="https://timo-borners.visualstudio.com/_git/CalendarBalloon" />
+          <option name="serverUri" value="https://timo-borners.visualstudio.com" />
+          <option name="userId" value="8f67a945-7292-4a04-bf40-a7ed87aea55a" />
+          <option name="teamProjectCollectionReference" value="{&quot;id&quot;:&quot;bf62f88e-21d3-4d39-b5cc-4b15da706820&quot;,&quot;name&quot;:&quot;timo-borners&quot;,&quot;url&quot;:&quot;https://timo-borners.visualstudio.com/_apis/projectCollections/bf62f88e-21d3-4d39-b5cc-4b15da706820&quot;}" />
+          <option name="teamProjectReference" value="{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;df8695b8-62aa-4958-ab25-3a1c6337523e&quot;,&quot;name&quot;:&quot;CalendarBalloon&quot;,&quot;revision&quot;:15,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://timo-borners.visualstudio.com/_apis/projects/df8695b8-62aa-4958-ab25-3a1c6337523e&quot;}" />
+          <option name="gitRepository" value="{&quot;defaultBranch&quot;:null,&quot;id&quot;:&quot;1fd8deef-3c25-485d-8720-5a18e9454753&quot;,&quot;name&quot;:&quot;CalendarBalloon&quot;,&quot;remoteUrl&quot;:&quot;https://timo-borners.visualstudio.com/CalendarBalloon/_git/CalendarBalloon&quot;,&quot;url&quot;:&quot;https://timo-borners.visualstudio.com/_apis/git/repositories/1fd8deef-3c25-485d-8720-5a18e9454753&quot;,&quot;_links&quot;:null,&quot;project&quot;:{&quot;abbreviation&quot;:null,&quot;description&quot;:null,&quot;id&quot;:&quot;df8695b8-62aa-4958-ab25-3a1c6337523e&quot;,&quot;name&quot;:&quot;CalendarBalloon&quot;,&quot;revision&quot;:15,&quot;state&quot;:&quot;NEW&quot;,&quot;url&quot;:&quot;https://timo-borners.visualstudio.com/_apis/projects/df8695b8-62aa-4958-ab25-3a1c6337523e&quot;}}" />
+        </ServerContextState>
+      </array>
     </option>
     <option name="properties">
       <array>
         <PropertyState>
           <option name="name" value="tfHome" />
           <option name="value" value="" />
+        </PropertyState>
+        <PropertyState>
+          <option name="name" value="lastContextKey" />
+          <option name="value" value="//timo-borners.visualstudio.com/_git/calendarballoon" />
         </PropertyState>
       </array>
     </option>
