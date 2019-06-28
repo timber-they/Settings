@@ -74,13 +74,9 @@
           <option name="url" value="git@github.com:MetaColon/Automata.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/metacolon/automata" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\Documents\Studium" />
+    <option name="cloneParentDir" value="$USER_HOME$/Documents/work" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
