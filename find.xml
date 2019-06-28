@@ -1,22 +1,24 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Solution" />
-    <option name="defaultScopeName" value="Solution" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="localRegularExpressions" value="true" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
-    <mask>*.properties</mask>
-    <mask>*.tml</mask>
-    <mask>*.js</mask>
     <mask>*.xml</mask>
+    <mask>*.config</mask>
+    <mask>*.js</mask>
+    <mask>*.tml</mask>
+    <mask>*.properties</mask>
+    <mask>*.sql</mask>
     <mask>*.java</mask>
-    <mask>*.xaml</mask>
   </component>
 </application>
