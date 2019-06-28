@@ -18,5 +18,6 @@
     <mask>*.js</mask>
     <mask>*.tml</mask>
     <mask>*.properties</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
