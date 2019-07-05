@@ -16,9 +16,9 @@
     <mask>*.config</mask>
     <mask>*.js</mask>
     <mask>*.tml</mask>
-    <mask>*.properties</mask>
     <mask>*.sql</mask>
     <mask>*.java</mask>
     <mask>*en.properties</mask>
+    <mask>*.properties</mask>
   </component>
 </application>
