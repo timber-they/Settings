@@ -1,6 +1,6 @@
 <application>
   <component name="CodeMetricsConfiguration">
-    <option name="complexityLevelExtreme" value="70" />
+    <option name="complexityLevelExtreme" value="100" />
     <option name="complexityLevelHigh" value="50" />
     <option name="complexityLevelNormal" value="20" />
     <option name="hiddenUnder" value="5" />
