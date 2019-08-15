@@ -12,12 +12,14 @@
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
-    <mask>*.xml</mask>
     <mask>*.config</mask>
+    <mask>*.sql</mask>
+    <mask>*en.properties</mask>
     <mask>*.js</mask>
     <mask>*.tml</mask>
+    <mask>*.xml</mask>
     <mask>*.properties</mask>
-    <mask>*.sql</mask>
     <mask>*.java</mask>
+    <mask>*.cs</mask>
   </component>
 </application>
