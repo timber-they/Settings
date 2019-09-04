@@ -7,16 +7,15 @@
       <mapping ext="jc" type="CLASS" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="means" type="PLAIN_TEXT" />
       <mapping pattern="wordsWithAbmelden" type="PLAIN_TEXT" />
       <mapping pattern="variances" type="PLAIN_TEXT" />
-      <mapping pattern="means" type="PLAIN_TEXT" />
-      <mapping ext="javaclass" type="PLAIN_TEXT" />
       <mapping ext="30xpromvstate" type="PLAIN_TEXT" />
       <mapping ext="gram" type="PLAIN_TEXT" />
+      <mapping ext="javaclass" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <mapping ext="manifest" type="XML" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
