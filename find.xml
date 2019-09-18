@@ -7,6 +7,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.js" />
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.as</mask>
@@ -15,11 +16,11 @@
     <mask>*.config</mask>
     <mask>*.sql</mask>
     <mask>*en.properties</mask>
-    <mask>*.js</mask>
     <mask>*.cs</mask>
     <mask>*.xml</mask>
     <mask>*.tml</mask>
     <mask>*.java</mask>
     <mask>*.properties</mask>
+    <mask>*.js</mask>
   </component>
 </application>
