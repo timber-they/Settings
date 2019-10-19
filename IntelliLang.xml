@@ -1,8 +1,13 @@
 <application>
   <component name="LanguageInjectionConfiguration">
     <injection language="JavaScript" injector-id="java">
-      <display-name>JavaScriptSupport.addScript (org.apache.tapestry5.services.javascript)</display-name>
+      <display-name>JavaScriptSupport (org.apache.tapestry5.services.javascript)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("addScript").withParameters("java.lang.String", "java.lang.Object...").definedInClass("org.apache.tapestry5.services.javascript.JavaScriptSupport"))]]></place>
       <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("addScript").withParameters("org.apache.tapestry5.services.javascript.InitializationPriority", "java.lang.String", "java.lang.Object...").definedInClass("org.apache.tapestry5.services.javascript.JavaScriptSupport"))]]></place>
+    </injection>
+    <injection language="RegExp" injector-id="java">
+      <display-name>Regex.Regex (jdk.nashorn.internal.runtime.regexp.joni)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("Regex").withParameters("java.lang.String").definedInClass("jdk.nashorn.internal.runtime.regexp.joni.Regex"))]]></place>
     </injection>
     <injection language="Latex" injector-id="xml">
       <display-name>blockquote</display-name>
