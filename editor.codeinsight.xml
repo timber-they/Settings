@@ -4,4 +4,7 @@
     <option name="INSERT_BRACE_ON_ENTER" value="false" />
     <option name="REFORMAT_ON_PASTE" value="4" />
   </component>
+  <component name="RiderCodeCompletionExtraSettings">
+    <option name="hasNotifiedAboutCompletingWithEnter" value="true" />
+  </component>
 </application>
