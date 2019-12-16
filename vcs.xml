@@ -1,5 +1,6 @@
 <application>
   <component name="Vcs.Log.App.Settings">
+    <option name="SHOW_DIFF_PREVIEW" value="true" />
     <option name="COLUMN_ORDER">
       <list>
         <option value="0" />
@@ -11,5 +12,6 @@
   </component>
   <component name="VcsApplicationSettings">
     <option name="PATCH_STORAGE_LOCATION" value="U:/eCMS Patches/2019.12.10" />
+    <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
   </component>
 </application>
