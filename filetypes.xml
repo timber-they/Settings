@@ -7,6 +7,7 @@
       <mapping ext="jc" type="CLASS" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping pattern="means" type="PLAIN_TEXT" />
+      <mapping pattern="create_delete_drafts" type="PLAIN_TEXT" />
       <mapping pattern="wordsWithAbmelden" type="PLAIN_TEXT" />
       <mapping pattern="variances" type="PLAIN_TEXT" />
       <mapping ext="30xpromvstate" type="PLAIN_TEXT" />
