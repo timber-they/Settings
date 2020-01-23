@@ -11,8 +11,11 @@
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
-    <mask>*.js</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*.js</mask>
+    <mask>pom.xml</mask>
+    <mask>!pom.xml</mask>
+    <mask>persistence*</mask>
   </component>
 </application>
