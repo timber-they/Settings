@@ -1,8 +1,18 @@
 <application>
   <component name="LocalDatabaseDriverManager" version="163">
-    <driver id="db2">
-      <artifact name="DB2" use="true" />
+    <driver id="azure.ms">
+      <artifact name="SQL Server" use="true" />
       <option name="auto-sync" value="false" />
+      <option name="send-app-info" value="false" />
+    </driver>
+    <driver id="db2">
+      <artifact name="DB2" use="true" version="4.23.42" />
+      <option name="auto-sync" value="false" />
+      <option name="auto-commit" value="true" />
+      <option name="format-sources-on-sync" value="true" />
+      <option name="send-app-info" value="true" />
+      <option name="source-loading" value="USER_SOURCES" />
+      <option name="schema-control" value="AUTOMATIC" />
     </driver>
     <driver id="db2.jtopen">
       <artifact name="JTOpen (DB2 iSeries)" use="true" />
@@ -16,27 +26,20 @@
       <artifact name="Apache Derby" use="true" />
       <option name="auto-sync" value="true" />
     </driver>
-    <driver id="azure.ms">
-      <artifact name="SQL Server" use="true" />
-      <option name="auto-sync" value="false" />
-      <option name="send-app-info" value="false" />
-    </driver>
-    <driver id="sqlserver.ms">
-      <artifact name="SQL Server" use="true" version="7.0.0" />
-      <option name="auto-sync" value="true" />
-      <option name="send-app-info" value="false" />
-      <option name="auto-commit" value="true" />
-      <option name="schema-control" value="AUTOMATIC" />
-    </driver>
-    <driver id="sqlserver.jtds">
-      <artifact name="jTDS (SQL Server and Sybase)" use="true" />
+    <driver id="h2.unified">
+      <artifact name="H2" use="true" />
       <option name="auto-sync" value="true" />
     </driver>
-    <driver id="sybase.jtds">
-      <artifact name="jTDS (SQL Server and Sybase)" use="true" />
+    <driver id="hsqldb.local">
+      <artifact name="HSQLDB" use="true" />
       <option name="auto-sync" value="true" />
     </driver>
-    <driver id="sybase.ase">
+    <driver id="hsqldb.remote">
+      <artifact name="HSQLDB" use="true" />
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="mariadb">
+      <artifact name="MariaDB Connector J" use="true" />
       <option name="auto-sync" value="true" />
     </driver>
     <driver id="mysql.8">
@@ -49,10 +52,6 @@
       <option name="auto-commit" value="true" />
       <option name="send-app-info" value="true" />
       <option name="schema-control" value="AUTOMATIC" />
-    </driver>
-    <driver id="mariadb">
-      <artifact name="MariaDB Connector J" use="true" />
-      <option name="auto-sync" value="true" />
     </driver>
     <driver id="oracle">
       <artifact name="Oracle" use="true" version="12.2.0.1" />
@@ -73,20 +72,34 @@
       <option name="auto-sync" value="true" />
       <option name="schema-control" value="MANUAL" />
     </driver>
-    <driver id="hsqldb.local">
-      <artifact name="HSQLDB" use="true" />
+    <driver id="greenplum">
+      <artifact name="PostgreSQL" use="true" />
       <option name="auto-sync" value="true" />
-    </driver>
-    <driver id="hsqldb.remote">
-      <artifact name="HSQLDB" use="true" />
-      <option name="auto-sync" value="true" />
-    </driver>
-    <driver id="h2.unified">
-      <artifact name="H2" use="true" />
-      <option name="auto-sync" value="true" />
+      <option name="schema-control" value="MANUAL" />
+      <option name="send-app-info" value="false" />
     </driver>
     <driver id="sqlite.xerial">
       <artifact name="Xerial SQLiteJDBC" use="true" />
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="sqlserver.ms">
+      <artifact name="SQL Server" use="true" version="7.4.1" />
+      <option name="auto-sync" value="true" />
+      <option name="send-app-info" value="false" />
+      <option name="auto-commit" value="true" />
+      <option name="schema-control" value="AUTOMATIC" />
+      <option name="format-sources-on-sync" value="true" />
+      <option name="source-loading" value="USER_SOURCES" />
+    </driver>
+    <driver id="sqlserver.jtds">
+      <artifact name="jTDS (SQL Server and Sybase)" use="true" />
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="sybase.jtds">
+      <artifact name="jTDS (SQL Server and Sybase)" use="true" />
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="sybase.ase">
       <option name="auto-sync" value="true" />
     </driver>
     <driver id="exasol">
@@ -109,15 +122,17 @@
       <artifact name="Hive" use="true" />
       <option name="auto-sync" value="true" />
     </driver>
-    <driver id="greenplum">
-      <artifact name="PostgreSQL" use="true" />
-      <option name="auto-sync" value="true" />
-      <option name="schema-control" value="MANUAL" />
-      <option name="send-app-info" value="false" />
-    </driver>
     <driver id="snowflake">
       <artifact name="Snowflake" use="true" />
       <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="oracle.jdbc.driver.OracleDriver" name="oracle.jdbc.driver.OracleDriver" driver-class="oracle.jdbc.driver.OracleDriver">
+      <option name="auto-commit" value="true" />
+      <option name="auto-sync" value="true" />
+      <option name="format-sources-on-sync" value="true" />
+      <option name="send-app-info" value="true" />
+      <option name="source-loading" value="USER_SOURCES" />
+      <option name="schema-control" value="AUTOMATIC" />
     </driver>
   </component>
 </application>
