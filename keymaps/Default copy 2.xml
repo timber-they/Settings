@@ -6,6 +6,11 @@
   <action id="Annotate">
     <keyboard-shortcut first-keystroke="ctrl alt a" />
   </action>
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="ctrl alt page_up" />
+  </action>
   <action id="ChangesView.AddUnversioned" />
   <action id="Console.TableResult.DeleteRows" />
   <action id="CopyElement" />
@@ -30,6 +35,11 @@
     <keyboard-shortcut first-keystroke="shift ctrl z" />
   </action>
   <action id="EditorStartNewLineBefore" />
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+    <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="ctrl alt page_down" />
+  </action>
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="f12" />
     <mouse-shortcut keystroke="control button1" />
