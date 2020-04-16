@@ -12,5 +12,6 @@
     <entry key="performance.watcher.unresponsive.interval.ms" value="1000" />
     <entry key="ide.svg.icon" value="true" />
     <entry key="ide.win.frame.decoration" value="true" />
+    <entry key="editor.distraction.free.mode" value="true" />
   </component>
 </application>
