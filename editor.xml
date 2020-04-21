@@ -1,6 +1,7 @@
 <application>
   <component name="CodeInsightSettings">
     <option name="AUTO_POPUP_JAVADOC_INFO" value="true" />
+    <option name="INSERT_BRACE_ON_ENTER" value="false" />
     <option name="REFORMAT_ON_PASTE" value="4" />
   </component>
   <component name="DaemonCodeAnalyzerSettings">
@@ -8,7 +9,6 @@
   </component>
   <component name="EditorSettings">
     <option name="SOFT_WRAP_FILE_MASKS" value="*.md; *.txt; *.rst; *.adoc" />
-    <option name="ENABLE_RENDERED_DOC" value="true" />
     <option name="IS_CAMEL_WORDS" value="true" />
     <option name="ADDITIONAL_PAGE_AT_BOTTOM" value="true" />
   </component>
