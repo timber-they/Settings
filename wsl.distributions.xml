@@ -27,24 +27,6 @@
           <presentable-name>SUSE Linux Enterprise Server 12</presentable-name>
         </descriptor>
         <descriptor>
-          <id>SLES15</id>
-          <microsoft-id>SLES-15</microsoft-id>
-          <executable-path>sles-15.exe</executable-path>
-          <presentable-name>SUSE Linux Enterprise Server 15</presentable-name>
-        </descriptor>
-        <descriptor>
-          <id>OPENSUSE15</id>
-          <microsoft-id>openSUSE-Leap-15</microsoft-id>
-          <executable-path>openSUSE-Leap-15.exe</executable-path>
-          <presentable-name>openSUSE Leap 15</presentable-name>
-        </descriptor>
-        <descriptor>
-          <id>OPENSUSE15-1</id>
-          <microsoft-id>openSUSE-Leap-15-1</microsoft-id>
-          <executable-path>openSUSE-Leap-15-1.exe</executable-path>
-          <presentable-name>openSUSE Leap 15.1</presentable-name>
-        </descriptor>
-        <descriptor>
           <id>UBUNTU</id>
           <microsoft-id>Ubuntu</microsoft-id>
           <executable-path>ubuntu.exe</executable-path>
@@ -69,6 +51,18 @@
           <presentable-name>WLinux</presentable-name>
         </descriptor>
         <descriptor>
+          <id>SLES15</id>
+          <microsoft-id>SLES-15</microsoft-id>
+          <executable-path>sles-15.exe</executable-path>
+          <presentable-name>SUSE Linux Enterprise Server 15</presentable-name>
+        </descriptor>
+        <descriptor>
+          <id>OPENSUSE15</id>
+          <microsoft-id>openSUSE-Leap-15</microsoft-id>
+          <executable-path>openSUSE-Leap-15.exe</executable-path>
+          <presentable-name>openSUSE Leap 15</presentable-name>
+        </descriptor>
+        <descriptor>
           <id>PENGWIN</id>
           <microsoft-id>Pengwin</microsoft-id>
           <executable-path>pengwin.exe</executable-path>
@@ -85,6 +79,12 @@
           <microsoft-id>Arch</microsoft-id>
           <executable-path>Arch.exe</executable-path>
           <presentable-name>Arch Linux</presentable-name>
+        </descriptor>
+        <descriptor>
+          <id>OPENSUSE15-1</id>
+          <microsoft-id>openSUSE-Leap-15-1</microsoft-id>
+          <executable-path>openSUSE-Leap-15-1.exe</executable-path>
+          <presentable-name>openSUSE Leap 15.1</presentable-name>
         </descriptor>
       </set>
     </descriptors>

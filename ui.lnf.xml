@@ -1,9 +1,9 @@
 <application>
+  <component name="DependencyUISettings">
+    <option name="UI_FLATTEN_PACKAGES" value="false" />
+    <option name="UI_GROUP_BY_SCOPE_TYPE" value="false" />
+  </component>
   <component name="UISettings">
-    <option name="HIDE_KNOWN_EXTENSION_IN_TABS" value="true" />
-    <option name="MARK_MODIFIED_TABS_WITH_ASTERISK" value="true" />
-    <option name="MAX_LOOKUP_LIST_HEIGHT" value="14" />
     <option name="MAX_LOOKUP_WIDTH2" value="1000" />
-    <option name="SHOW_ICONS_IN_MENUS" value="false" />
   </component>
 </application>

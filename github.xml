@@ -1,6 +1,11 @@
 <application>
+  <component name="GithubAccounts">
+    <account id="c13a80ad-822b-45da-ad6d-f731f53a82ff" name="MetaColon">
+      <server host="github.com" />
+    </account>
+  </component>
   <component name="GithubSettings">
-    <option name="AUTH_TYPE" value="TOKEN" />
-    <option name="CLONE_GIT_USING_SSH" value="true" />
+    <option name="COPY_URL_GIST" value="true" />
+    <option name="PRIVATE_GIST" value="false" />
   </component>
 </application>
