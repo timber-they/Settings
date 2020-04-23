@@ -1,10 +1,9 @@
 <application>
   <component name="GraziConfig">
-    <option name="enabledGrammarStrategies">
+    <option name="enabledLanguages">
       <set>
-        <option value="nl.rubensten.texifyidea:Latex" />
-        <option value="org.asciidoctor.intellij.asciidoc:AsciiDoc" />
-        <option value="tanvd.grazi:JAVA" />
+        <option value="English (US)" />
+        <option value="German (Germany)" />
       </set>
     </option>
   </component>
