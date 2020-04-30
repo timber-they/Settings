@@ -83,7 +83,7 @@
       <option name="auto-sync" value="true" />
     </driver>
     <driver id="sqlserver.ms">
-      <artifact name="SQL Server" use="true" version="7.4.1" />
+      <artifact name="SQL Server" use="true" version="8.2.2" />
       <option name="auto-sync" value="true" />
       <option name="send-app-info" value="false" />
       <option name="auto-commit" value="true" />
@@ -124,6 +124,10 @@
     </driver>
     <driver id="snowflake">
       <artifact name="Snowflake" use="true" />
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="mongo">
+      <artifact name="MongoDB" use="true" />
       <option name="auto-sync" value="true" />
     </driver>
     <driver id="oracle.jdbc.driver.OracleDriver" name="oracle.jdbc.driver.OracleDriver" driver-class="oracle.jdbc.driver.OracleDriver">
