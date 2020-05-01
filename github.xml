@@ -1,7 +1,11 @@
 <application>
   <component name="GithubAccounts">
-    <account id="a9ec40f1-b52d-44a7-b8ed-dcd2f4c73133" name="MetaColon">
+    <account id="c13a80ad-822b-45da-ad6d-f731f53a82ff" name="MetaColon">
       <server host="github.com" />
     </account>
+  </component>
+  <component name="GithubSettings">
+    <option name="COPY_URL_GIST" value="true" />
+    <option name="PRIVATE_GIST" value="false" />
   </component>
 </application>

@@ -1,0 +1,13 @@
+<application>
+  <component name="CodeMetricsConfiguration">
+    <option name="complexityLevelExtreme" value="100" />
+    <option name="complexityLevelHigh" value="50" />
+    <option name="complexityLevelNormal" value="20" />
+    <option name="hiddenUnder" value="5" />
+    <option name="complexityLevelExtremeDescription" value="is - hang on, what?!" />
+    <option name="complexityLevelHighDescription" value="is bad" />
+    <option name="complexityLevelNormalDescription" value="is ok" />
+    <option name="complexityLevelLowDescription" value="is awesome" />
+    <option name="complexityTemplate" value="{0} {1} " />
+  </component>
+</application>
