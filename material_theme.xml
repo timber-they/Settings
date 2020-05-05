@@ -1,5 +1,8 @@
 <application>
   <component name="MaterialThemeConfig">
+    <option name="compactMenus" value="true" />
+    <option name="compactStatusBar" value="true" />
+    <option name="compactTables" value="true" />
     <option name="compactDropdowns" value="true" />
     <option name="darkTitleBar" value="true" />
     <option name="isCompactMenus" value="true" />
@@ -9,9 +12,10 @@
     <option name="pristineConfig" value="false" />
     <option name="settingsSelectedTab" value="5" />
     <option name="tabsHeight" value="25" />
-    <option name="accentColor" value="009688" />
+    <option name="accentColor" value="ff9800" />
     <option name="highlightColor" value="80cbc4" />
+    <option name="selectedTheme" value="DARKER" />
     <option name="userId" value="4edfaf94:165881e362d:-7ffd" />
-    <option name="version" value="4.11.5" />
+    <option name="version" value="5.2.0" />
   </component>
 </application>
