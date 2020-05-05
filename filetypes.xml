@@ -1,16 +1,14 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <removed_mapping ext="config" type="Config" />
-      <mapping pattern="variances" type="PLAIN_TEXT" />
       <mapping pattern="wordsWithAbmelden" type="PLAIN_TEXT" />
       <mapping pattern="means" type="PLAIN_TEXT" />
+      <mapping pattern="variances" type="PLAIN_TEXT" />
       <mapping ext="30xpromvstate" type="PLAIN_TEXT" />
       <mapping ext="gram" type="PLAIN_TEXT" />
       <mapping ext="javaclass" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <mapping ext="gpx" type="XML" />
-      <mapping ext="config" type="XML" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="dockerfile" approved="true" type="textmate" />
