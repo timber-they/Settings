@@ -6,9 +6,9 @@
       <mapping ext="jacl" type="CLASS" />
       <mapping ext="jc" type="CLASS" />
       <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping pattern="means" type="PLAIN_TEXT" />
       <mapping pattern="wordsWithAbmelden" type="PLAIN_TEXT" />
       <mapping pattern="variances" type="PLAIN_TEXT" />
-      <mapping pattern="means" type="PLAIN_TEXT" />
       <mapping ext="30xpromvstate" type="PLAIN_TEXT" />
       <mapping ext="gram" type="PLAIN_TEXT" />
       <mapping ext="javaclass" type="PLAIN_TEXT" />
