@@ -11,13 +11,13 @@
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.properties</mask>
-    <mask>pom.xml</mask>
     <mask>!pom.xml</mask>
     <mask>persistence*</mask>
     <mask>*.xml</mask>
-    <mask>*.tml</mask>
     <mask>*.js</mask>
     <mask>*.sql</mask>
     <mask>*.java</mask>
+    <mask>*.tml</mask>
+    <mask>pom.xml</mask>
   </component>
 </application>
