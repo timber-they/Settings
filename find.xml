@@ -1,23 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'CodeJam20'" />
-    <option name="defaultScopeName" value="Project 'CodeJam20'" />
-    <option name="localRegularExpressions" value="true" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'CodeJam20'" />
-    <mask>*.css</mask>
-    <mask>*.html</mask>
-    <mask>*.jsp</mask>
-    <mask>*.properties</mask>
-    <mask>pom.xml</mask>
-    <mask>!pom.xml</mask>
-    <mask>persistence*</mask>
-    <mask>*.xml</mask>
-    <mask>*.tml</mask>
-    <mask>*.js</mask>
-    <mask>*.sql</mask>
-    <mask>*.java</mask>
+    <option name="customScope" value="Solution" />
+    <option name="defaultScopeName" value="Solution" />
+    <option name="SEARCH_SCOPE" value="Solution" />
   </component>
 </application>
