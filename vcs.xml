@@ -6,6 +6,10 @@
           <option name="url" value="https://github.com/MetaColon/console_chess" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://sb-git.intra.dps-online.de" />
+          <option name="userName" value="timoborner" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/RiderProjects" />
