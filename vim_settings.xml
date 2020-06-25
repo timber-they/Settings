@@ -100,42 +100,6 @@
   <component name="VimMarksSettings">
     <globalmarks />
     <filemarks>
-      <file name="/DM_ACTION [Audo]" timestamp="1593007195290">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/BACK_END_CONNECTION [Audo]" timestamp="1593007800301">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/ALERT_REMOVE_CONFIG [Audo]" timestamp="1593007770484">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/DM_TID_FILE_BINARY_DATA [DM]" timestamp="1593006560461">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/DM_ORDER [Audo]" timestamp="1593009751374">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/AuroDomus.dbo.ALERT_REMOVE_CONFIG" timestamp="1593007770505">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/ECMS_DM.dbo.DM_ACTION" timestamp="1593007195303">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/ECMS_DM.dbo.DM_ORDER" timestamp="1593009751391">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/ECMS_DM.dbo.DM_AGENT" timestamp="1593007760356">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Documents/work/eCMS_DM/trunk/EcmsDmWebAdministrator/src/main/resources/de/dps/ecms/dm/webadmin/pages/OrderEdit.tml" timestamp="1593009857510">
-        <mark key="'" line="41" column="0" />
-      </file>
-      <file name="/DM_AGENT [Audo]" timestamp="1593007760340">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/AuroDomus.dbo.ALERT_DATA" timestamp="1593007794625">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Documents/work/eCMS_DM/trunk/EcmsDmWebAdministrator/src/main/resources/de/dps/ecms/dm/webadmin/components/OrderComponentsSelection.tml" timestamp="1593009877023">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="103" />
@@ -143,25 +107,57 @@
         <mark key="." line="0" column="0" />
         <mark key="^" line="0" column="1" />
       </file>
-      <file name="/ECMS_DM.dbo.DM_SCRIPT" timestamp="1593010169262">
+      <file name="/ECMS_DM.dbo.DM_ORDER" timestamp="1593072737698">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/ECMS_DM.dbo.DM_SERVICE_FUNCTION_DEF" timestamp="1593072737701">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/ECMS_DM.dbo.DM_AGENT" timestamp="1593072737694">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/eCMS_DM/trunk/EcmsDmWebAdministrator/src/main/resources/de/dps/ecms/dm/webadmin/components/MachineGroupDefinitionDetailsView.tml" timestamp="1593073144000" />
+      <file name="/ECMS_DM.dbo.DM_SCRIPT" timestamp="1593072737712">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/ECMS_DM.dbo.DM_TASK" timestamp="1593072737708">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/DM_SERVICE_FUNCTION_DEF [Audo]" timestamp="1593072737700">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/BACK_END_CONNECTION [Audo]" timestamp="1593007800301">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/eCMS_DM/trunk/EcmsDmWebAdministrator/src/main/resources/de/dps/ecms/dm/webadmin/pages/OrderEdit.tml" timestamp="1593009857510">
+        <mark key="'" line="41" column="0" />
+      </file>
+      <file name="/DM_TASK [Audo]" timestamp="1593072737707">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/foo.bar" timestamp="1593072737713">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/AuroDomus.dbo.BACK_END_CONNECTION" timestamp="1593007800316">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/DM_SCRIPT [Audo]" timestamp="1593010169247">
+      <file name="/DM_AGENT [Audo]" timestamp="1593072737684">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/ALERT_CONFIG [Audo]" timestamp="1593007156025">
+      <file name="/ECMS_DM.dbo.DM_TASK_2_SCRIPT_MAP" timestamp="1593072737705">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/foo.bar" timestamp="1593010169276">
+      <file name="/DM_SCRIPT [Audo]" timestamp="1593072737710">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/ALERT_DATA [Audo]" timestamp="1593007794609">
+      <file name="/DM_TASK_2_SCRIPT_MAP [Audo]" timestamp="1593072737703">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/AuroDomus.dbo.ALERT_CONFIG" timestamp="1593007156042">
+      <file name="/AuroDomus.dbo.ALERT_DATA" timestamp="1593007794625">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Documents/work/eCMS_DM/trunk/EcmsDmWebAdministrator/src/main/java/de/dps/ecms/dm/webadmin/components/MachineGroupDefinitionDetailsView.java" timestamp="1593073124869" />
+      <file name="/DM_ORDER [Audo]" timestamp="1593072737696">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -263,7 +259,7 @@ where DM_VERSIONED_COMPONENT_TYPE_ID = 592976
     </search>
   </component>
   <component name="VimSettings">
-    <state version="6" enabled="true" />
+    <state version="6" enabled="false" />
     <notifications>
       <idea-join enabled="false" />
       <idea-put enabled="false" />
