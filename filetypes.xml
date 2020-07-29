@@ -7,8 +7,8 @@
       <mapping ext="jc" type="CLASS" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping pattern="wordsWithAbmelden" type="PLAIN_TEXT" />
       <mapping pattern="means" type="PLAIN_TEXT" />
+      <mapping pattern="wordsWithAbmelden" type="PLAIN_TEXT" />
       <mapping pattern="variances" type="PLAIN_TEXT" />
       <mapping ext="30xpromvstate" type="PLAIN_TEXT" />
       <mapping ext="jdl" type="PLAIN_TEXT" />
