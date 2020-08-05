@@ -83,7 +83,10 @@
       <option name="send-app-info" value="true" />
       <option name="schema-control" value="AUTOMATIC" />
     </driver>
-    <driver id="oracle" dialect="OracleSqlPlus">
+    <driver id="mysql_aurora">
+      <option name="auto-sync" value="true" />
+    </driver>
+    <driver id="oracle" dialect="TSQL">
       <artifact id="Oracle" name="Oracle" use="true" version="12.2.0.1" />
       <option name="auto-sync" value="true" />
       <option name="auto-commit" value="false" />
