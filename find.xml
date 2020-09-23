@@ -14,7 +14,7 @@
     <mask>*.xml</mask>
     <mask>*.properties</mask>
     <mask>*.sql</mask>
-    <mask>*.tml</mask>
     <mask>*.java</mask>
+    <mask>*.tml</mask>
   </component>
 </application>
