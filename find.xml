@@ -15,8 +15,8 @@
     <mask>pom.xml</mask>
     <mask>*.xml</mask>
     <mask>*.sql</mask>
-    <mask>*.java</mask>
     <mask>*.tml</mask>
     <mask>*.properties</mask>
+    <mask>*.java</mask>
   </component>
 </application>
