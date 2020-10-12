@@ -16,5 +16,6 @@
     <mask>*.tml</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
+    <mask>*.cs</mask>
   </component>
 </application>
