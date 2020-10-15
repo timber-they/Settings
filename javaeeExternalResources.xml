@@ -3,6 +3,7 @@
     <resource url="http://www.liquibase.org/xml/ns/dbchangelog" location="$USER_HOME$/.IntelliJIdea2019.3/system/extResources/3313b03f_dbchangelog-3.8.xsd" />
     <resource url="http://www.liquibase.org/xml/ns/pro" location="$USER_HOME$/.IntelliJIdea2019.3/system/extResources/1eaba859_liquibase-pro-3.8.xsd" />
     <resource url="http://www.topografix.com/GPX/1/1" location="$USER_HOME$/.Rider2019.3/system/extResources/fc9149d4_gpx.xsd" />
+    <resource url="http://www.w3.org/1999/XSL/Format" location="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.2/extResources/741852a8_Format.xml" />
     <ignored-resource url="urn:oasis:names:tc:xliff:document:1.2" />
     <ignored-resource url="urn:schemas-microsoft-com:compatibility.v1" />
   </component>
