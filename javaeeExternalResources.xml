@@ -1,5 +1,7 @@
 <application>
   <component name="ExternalResourceManagerImpl">
+    <resource url="http://schemas.xmlsoap.org/wsdl/" location="$USER_HOME$/AppData/Local/JetBrains/Rider2020.2/extResources/42abd8c6_.xml" />
+    <resource url="http://schemas.xmlsoap.org/wsdl/soap/" location="$USER_HOME$/AppData/Local/JetBrains/Rider2020.2/extResources/9f6330fe_.xml" />
     <resource url="http://www.liquibase.org/xml/ns/dbchangelog" location="$USER_HOME$/.IntelliJIdea2019.3/system/extResources/3313b03f_dbchangelog-3.8.xsd" />
     <resource url="http://www.liquibase.org/xml/ns/pro" location="$USER_HOME$/.IntelliJIdea2019.3/system/extResources/1eaba859_liquibase-pro-3.8.xsd" />
     <resource url="http://www.topografix.com/GPX/1/1" location="$USER_HOME$/.Rider2019.3/system/extResources/fc9149d4_gpx.xsd" />
