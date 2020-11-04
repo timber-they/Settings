@@ -95,6 +95,12 @@
       <shortcut-conflict owner="ide">
         <text>ctrl pressed I</text>
       </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed K</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed L</text>
+      </shortcut-conflict>
     </shortcut-conflicts>
   </component>
   <component name="VimMarksSettings">
@@ -259,7 +265,7 @@ where DM_VERSIONED_COMPONENT_TYPE_ID = 592976
     </search>
   </component>
   <component name="VimSettings">
-    <state version="6" enabled="false" />
+    <state version="7" enabled="false" />
     <notifications>
       <idea-join enabled="false" />
       <idea-put enabled="false" />
