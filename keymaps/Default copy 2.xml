@@ -6,6 +6,9 @@
   <action id="ActivateCommitToolWindow">
     <keyboard-shortcut first-keystroke="alt c" />
   </action>
+  <action id="ActivateProfilerToolWindow">
+    <keyboard-shortcut first-keystroke="alt p" />
+  </action>
   <action id="Annotate">
     <keyboard-shortcut first-keystroke="ctrl alt a" />
   </action>
