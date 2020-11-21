@@ -2,6 +2,7 @@
   <component name="DependencyUISettings">
     <option name="UI_FLATTEN_PACKAGES" value="false" />
     <option name="UI_GROUP_BY_SCOPE_TYPE" value="false" />
+    <option name="SCOPE_TYPE" value="file" />
   </component>
   <component name="UISettings">
     <option name="MAX_LOOKUP_WIDTH2" value="1000" />
