@@ -1,0 +1,27 @@
+<application>
+  <component name="LanguageInjectionConfiguration">
+    <injection language="SQL" injector-id="java">
+      <display-name>EntityManager (javax.persistence)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createNativeQuery").withParameters("java.lang.String").definedInClass("javax.persistence.EntityManager"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createNativeQuery").withParameters("java.lang.String", "java.lang.Class").definedInClass("javax.persistence.EntityManager"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("createNativeQuery").withParameters("java.lang.String", "java.lang.String").definedInClass("javax.persistence.EntityManager"))]]></place>
+    </injection>
+    <injection language="JavaScript" injector-id="java">
+      <display-name>JavaScriptSupport (org.apache.tapestry5.services.javascript)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("addScript").withParameters("java.lang.String", "java.lang.Object...").definedInClass("org.apache.tapestry5.services.javascript.JavaScriptSupport"))]]></place>
+      <place><![CDATA[psiParameter().ofMethod(1, psiMethod().withName("addScript").withParameters("org.apache.tapestry5.services.javascript.InitializationPriority", "java.lang.String", "java.lang.Object...").definedInClass("org.apache.tapestry5.services.javascript.JavaScriptSupport"))]]></place>
+    </injection>
+    <injection language="RegExp" injector-id="java">
+      <display-name>Regex.Regex (jdk.nashorn.internal.runtime.regexp.joni)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("Regex").withParameters("java.lang.String").definedInClass("jdk.nashorn.internal.runtime.regexp.joni.Regex"))]]></place>
+    </injection>
+    <injection language="HTML" injector-id="java">
+      <display-name>StringBuilder.append (java.lang)</display-name>
+      <place><![CDATA[psiParameter().ofMethod(0, psiMethod().withName("append").withParameters("java.lang.String").definedInClass("java.lang.StringBuilder"))]]></place>
+    </injection>
+    <injection language="Latex" injector-id="xml">
+      <display-name>blockquote</display-name>
+      <place><![CDATA[xmlTag().withLocalName(string().equalTo("blockquote")).withNamespace(string().equalTo("http://www.w3.org/1999/html"))]]></place>
+    </injection>
+  </component>
+</application>

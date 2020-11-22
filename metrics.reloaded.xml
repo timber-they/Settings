@@ -1,0 +1,6 @@
+<application>
+  <component name="MetricsReloaded">
+    <option name="selectedProfile" value="Complexity metrics" />
+    <option name="showOnlyWarnings" value="true" />
+  </component>
+</application>
