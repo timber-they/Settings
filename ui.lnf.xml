@@ -5,6 +5,8 @@
     <option name="SCOPE_TYPE" value="file" />
   </component>
   <component name="UISettings">
+    <option name="CONSOLE_CYCLE_BUFFER_SIZE_KB" value="8192" />
     <option name="MAX_LOOKUP_WIDTH2" value="1000" />
+    <option name="OVERRIDE_CONSOLE_CYCLE_BUFFER_SIZE" value="true" />
   </component>
 </application>
