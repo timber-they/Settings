@@ -10,9 +10,13 @@
           <option name="url" value="http://sb-git.intra.dps-online.de" />
           <option name="userName" value="timoborner" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://sb-git.intra.dps-online.de/timoborner/dm_lpt.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/RiderProjects" />
+    <option name="cloneParentDir" value="C:\Users\Borner\Documents\work" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="COLUMN_ORDER">
@@ -25,6 +29,6 @@
     </option>
   </component>
   <component name="VcsApplicationSettings">
-    <option name="PATCH_STORAGE_LOCATION" value="U:/eCMS Patches/2020.11.20" />
+    <option name="PATCH_STORAGE_LOCATION" value="U:/eCMS Patches/2020.11.27" />
   </component>
 </application>
