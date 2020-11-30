@@ -1,5 +1,16 @@
 <application>
   <component name="JupyterPersistentConnectionParameters">
+    <option name="knownRemoteServers">
+      <list>
+        <JupyterConnectionParameters>
+          <option name="authType" value="notebook" />
+          <option name="urlString" value="http://localhost:8888/notebooks/Uebung_CN.ipynb" />
+          <authParams2>
+            <map />
+          </authParams2>
+        </JupyterConnectionParameters>
+      </list>
+    </option>
     <option name="moduleParameters">
       <map>
         <entry key="D:/Documents/Institutionelles/Studium/Laptop/Studium/SM5/Computational physics/Exercises/4/.idea/4.iml">
