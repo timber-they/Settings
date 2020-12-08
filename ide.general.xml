@@ -24,6 +24,7 @@
     <entry key="ide.borderless.tab.caption.in.title" value="false" />
     <entry key="ide.debug.in.title" value="true" />
     <entry key="rdclient.asyncActions" value="false" />
+    <entry key="scala.erase.compiler.process.jdk.once" value="false" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
