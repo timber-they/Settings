@@ -2,7 +2,8 @@
   <component name="RainbowSettings">
     <option name="applyColorsOfRoundForAllBrackets" value="true" />
     <option name="cycleCountOnAllBrackets" value="true" />
+    <option name="enableRainbowAngleBrackets" value="false" />
     <option name="rainbowifyTagNameInXML" value="true" />
-    <option name="version" value="6.12.1" />
+    <option name="version" value="6.13" />
   </component>
 </application>
