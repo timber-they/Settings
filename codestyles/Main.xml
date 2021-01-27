@@ -8,9 +8,4 @@
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
-  <codeStyleSettings language="JAVA">
-    <option name="BRACE_STYLE" value="2" />
-    <option name="CLASS_BRACE_STYLE" value="2" />
-    <option name="METHOD_BRACE_STYLE" value="2" />
-  </codeStyleSettings>
 </code_scheme>

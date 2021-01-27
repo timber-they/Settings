@@ -11,6 +11,7 @@
       <mapping pattern="means" type="PLAIN_TEXT" />
       <mapping pattern="variances" type="PLAIN_TEXT" />
       <mapping ext="jdl" type="PLAIN_TEXT" />
+      <mapping ext="out" type="PLAIN_TEXT" />
       <mapping ext="gram" type="PLAIN_TEXT" />
       <mapping ext="30xpromvstate" type="PLAIN_TEXT" />
       <mapping ext="lst" type="PLAIN_TEXT" />
