@@ -22,6 +22,10 @@
           <option name="url" value="git@github.com:BluSunrize/ImmersiveEngineering.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:EnterpriseQualityCoding/FizzBuzzEnterpriseEdition.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Documents\Software Development" />
