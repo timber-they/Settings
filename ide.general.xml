@@ -27,8 +27,9 @@
     <entry key="scala.erase.compiler.process.jdk.once" value="false" />
     <entry key="ide.tree.expand.navigatable.on.double.click.disabled" value="true" />
     <entry key="use.tabbed.welcome.screen" value="false" />
-    <entry key="ide.new.project.model" value="false" />
     <entry key="ide.mac.bigsur.alerts.enabled" value="false" />
+    <entry key="external.system.auto.import.disabled" value="true" />
+    <entry key="ide.new.project.model" value="false" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
