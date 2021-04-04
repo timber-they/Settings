@@ -26,9 +26,17 @@
           <option name="url" value="git@github.com:EnterpriseQualityCoding/FizzBuzzEnterpriseEdition.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@dps-bitbucket.intra.dps-online.de:7999/emi/lpt-tester.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@dps-bitbucket.intra.dps-online.de:7999/em/ecms_j.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\Documents\Software Development" />
+    <option name="cloneParentDir" value="C:\Users\Borner\Documents\work" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
