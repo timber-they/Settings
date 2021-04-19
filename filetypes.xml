@@ -6,6 +6,7 @@
       <mapping ext="jacl" type="CLASS" />
       <mapping ext="jc" type="CLASS" />
       <mapping ext="space.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="wordsWithAbmelden" type="PLAIN_TEXT" />
       <mapping pattern="means" type="PLAIN_TEXT" />
