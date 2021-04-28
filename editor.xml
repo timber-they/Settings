@@ -1,21 +1,21 @@
 <application>
   <component name="CodeInsightSettings">
     <option name="INSERT_BRACE_ON_ENTER" value="false" />
-    <option name="REFORMAT_ON_PASTE" value="4" />
   </component>
   <component name="DaemonCodeAnalyzerSettings">
     <option name="SHOW_METHOD_SEPARATORS" value="true" />
   </component>
+  <component name="DefaultFont">
+    <option name="FONT_REGULAR_SUB_FAMILY" value="Regular" />
+    <option name="FONT_BOLD_SUB_FAMILY" value="Bold" />
+  </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="" />
-    <option name="IS_CAMEL_WORDS" value="true" />
     <option name="ADDITIONAL_PAGE_AT_BOTTOM" value="true" />
   </component>
   <component name="TodoConfiguration">
-    <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;TODO)(\W|$)(.*)" />
-    <pattern icon="question" pattern="(?&lt;=\W|^)(?&lt;TAG&gt;ENHANCEMENT)(\W|$)(.*)" />
-    <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;BUG)(\W|$)(.*)" />
-    <pattern icon="question" pattern="(?&lt;=\W|^)(?&lt;TAG&gt;VALIDATE)(\W|$)(.*)" />
     <pattern pattern="\bNotImplementedException\b" />
+    <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;BUG)(\W|$)(.*)" />
+    <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;TODO)(\W|$)(.*)" />
   </component>
 </application>
