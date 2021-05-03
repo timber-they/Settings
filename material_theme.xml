@@ -3,6 +3,7 @@
     <option name="compactMenus" value="true" />
     <option name="compactStatusBar" value="true" />
     <option name="compactTables" value="true" />
+    <option name="premium" value="true" />
     <option name="allowDataCollection" value="true" />
     <option name="compactDropdowns" value="true" />
     <option name="darkTitleBar" value="true" />
@@ -16,7 +17,7 @@
     <option name="highlightColor" value="80cbc4" />
     <option name="selectedTheme" value="DARKER" />
     <option name="userId" value="4edfaf94:165881e362d:-7ffd" />
-    <option name="version" value="6.3.3" />
+    <option name="version" value="6.4.0" />
     <option name="codeAdditionsEnabled" value="false" />
   </component>
 </application>
