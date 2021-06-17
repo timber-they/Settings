@@ -1,10 +1,10 @@
 <scheme name="_@user_Solarized Dark (Material)" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2021-06-01T00:40:54</property>
+    <property name="created">2021-06-01T11:14:23</property>
     <property name="ide">idea</property>
-    <property name="ideVersion">2021.1.0.0</property>
-    <property name="modified">2021-06-01T00:47:12</property>
+    <property name="ideVersion">2021.1.1.0.0</property>
+    <property name="modified">2021-06-01T12:11:46</property>
     <property name="originalScheme">Solarized Dark (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.1" />
@@ -14,21 +14,25 @@
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
-    <option name="EDITOR_FONT_SIZE" value="13" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
   </font>
+  <option name="EDITOR_LIGATURES" value="true" />
   <console-font>
     <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
   </console-font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Menlo" />
     <option name="EDITOR_FONT_SIZE" value="12" />
   </console-font>
-  <option name="CONSOLE_LINE_SPACING" value="1.6" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="859900" />
     <option name="ANNOTATIONS_COLOR" value="7899a4" />
     <option name="ANNOTATIONS_MERGED_COLOR" value="2aa198" />
+    <option name="ActionButton.hoverBackground" value="5a6f50" />
+    <option name="ActionButton.iconTextForeground" value="586e75" />
+    <option name="ActionButton.pressedBackground" value="5a6f" />
+    <option name="BookmarkIcon.background" value="d33682" />
     <option name="CARET_COLOR" value="d30102" />
     <option name="CARET_ROW_COLOR" value="73642" />
     <option name="CONSOLE_BACKGROUND_KEY" value="2b36" />
@@ -81,10 +85,17 @@
     <option name="IGNORED_MODIFIED_LINES_BORDER_COLOR" value="25566b" />
     <option name="INDENT_GUIDE" value="93640" />
     <option name="INFORMATION_HINT" value="52730" />
+    <option name="INLINE_REFACTORING_SETTINGS_DEFAULT" value="2b36" />
+    <option name="INLINE_REFACTORING_SETTINGS_FOCUSED" value="2e4c52" />
+    <option name="INLINE_REFACTORING_SETTINGS_HOVERED" value="113a46" />
     <option name="LINE_NUMBERS_COLOR" value="839496" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="ffffff" />
     <option name="METHOD_SEPARATORS_COLOR" value="73642" />
     <option name="MODIFIED_LINES_COLOR" value="268bd2" />
+    <option name="MODIFIED_TAB_ICON" value="d33682" />
+    <option name="MnemonicIcon.background" value="2e4c52" />
+    <option name="MnemonicIcon.borderColor" value="2e4c52" />
+    <option name="MnemonicIcon.foreground" value="ffffff" />
     <option name="NOTIFICATION_BACKGROUND" value="3847" />
     <option name="PROMOTION_PANE" value="252e" />
     <option name="QUESTION_HINT" value="1f6c8f" />
@@ -224,6 +235,11 @@
       <value>
         <option name="FOREGROUND" value="cb4b16" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="BLINKING_HIGHLIGHTS_ATTRIBUTES">
+      <value>
+        <option name="EFFECT_COLOR" value="d33682" />
       </value>
     </option>
     <option name="BREADCRUMBS_CURRENT">
@@ -1321,6 +1337,17 @@
         <option name="BACKGROUND" value="73642" />
       </value>
     </option>
+    <option name="INLAY_DEFAULT">
+      <value>
+        <option name="FOREGROUND" value="586e75" />
+        <option name="BACKGROUND" value="133b45" />
+      </value>
+    </option>
+    <option name="INLAY_TEXT_WITHOUT_BACKGROUND">
+      <value>
+        <option name="FOREGROUND" value="586e75" />
+      </value>
+    </option>
     <option name="INLINE_PARAMETER_HINT">
       <value>
         <option name="FOREGROUND" value="586e75" />
@@ -1461,9 +1488,44 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
+    <option name="JS.ASYNC_AWAIT">
+      <value>
+        <option name="FOREGROUND" value="93a1a1" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="JS.CLASS_EXTENDS">
+      <value>
+        <option name="FOREGROUND" value="93a1a1" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="JS.CONSOLE">
+      <value>
+        <option name="FOREGROUND" value="93a1a1" />
+      </value>
+    </option>
+    <option name="JS.CONSTRUCTOR">
+      <value>
+        <option name="FOREGROUND" value="93a1a1" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="JS.FUNCTION">
       <value>
+        <option name="FOREGROUND" value="93a1a1" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="JS.FUNCTION_NAME">
+      <value>
         <option name="FOREGROUND" value="268bd2" />
+      </value>
+    </option>
+    <option name="JS.GET_SET">
+      <value>
+        <option name="FOREGROUND" value="93a1a1" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="JS.GLOBAL_FUNCTION">
@@ -1494,7 +1556,7 @@
     </option>
     <option name="JS.MODULE_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="cb4b16" />
+        <option name="FOREGROUND" value="859900" />
       </value>
     </option>
     <option name="JS.MODULE_NAME">
@@ -1508,6 +1570,16 @@
         <option name="FOREGROUND" value="b58900" />
       </value>
     </option>
+    <option name="JS.PRIMITIVE">
+      <value>
+        <option name="FOREGROUND" value="b58900" />
+      </value>
+    </option>
+    <option name="JS.PROTOTYPE">
+      <value>
+        <option name="FOREGROUND" value="93a1a1" />
+      </value>
+    </option>
     <option name="JS.REGEXP">
       <value>
         <option name="FOREGROUND" value="2aa198" />
@@ -1516,6 +1588,12 @@
     <option name="JS.THIS_SUPER">
       <value>
         <option name="FOREGROUND" value="d33682" />
+      </value>
+    </option>
+    <option name="JS.VAL">
+      <value>
+        <option name="FOREGROUND" value="93a1a1" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="JSP_DIRECTIVE_NAME" baseAttributes="DEFAULT_KEYWORD" />
@@ -1550,9 +1628,7 @@
       </value>
     </option>
     <option name="KOTLIN_LABEL">
-      <value>
-        <option name="EFFECT_TYPE" value="1" />
-      </value>
+      <value />
     </option>
     <option name="KOTLIN_MUTABLE_VARIABLE">
       <value>
@@ -2934,10 +3010,8 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="2e4c52" />
+        <option name="BACKGROUND" value="3b514d" />
         <option name="FONT_TYPE" value="1" />
-        <option name="EFFECT_COLOR" value="ffcc00" />
-        <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
     <option name="MESSAGE_ARGUMENT">
@@ -4114,8 +4188,8 @@
         <option name="FOREGROUND" value="657b83" />
       </value>
     </option>
-    <option name="TAPESTRY_COMPONENT_PARAMATER" baseAttributes="" />
-    <option name="TAPESTRY_COMPONENT_TAG" baseAttributes="" />
+    <option name="TAPESTRY_COMPONENT_PARAMATER" baseAttributes="HTML_ATTRIBUTE_NAME" />
+    <option name="TAPESTRY_COMPONENT_TAG" baseAttributes="HTML_TAG_NAME" />
     <option name="TEA.BADCHARACTER">
       <value>
         <option name="FOREGROUND" value="ede7d4" />
@@ -4199,10 +4273,37 @@
         <option name="ERROR_STRIPE_COLOR" value="b58900" />
       </value>
     </option>
+    <option name="TS.ANY">
+      <value>
+        <option name="FOREGROUND" value="859900" />
+      </value>
+    </option>
+    <option name="TS.ENUM">
+      <value>
+        <option name="FOREGROUND" value="93a1a1" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="TS.INLINE">
+      <value>
+        <option name="FOREGROUND" value="859900" />
+      </value>
+    </option>
     <option name="TS.MODULE_NAME">
       <value>
         <option name="FOREGROUND" value="6c71c4" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="TS.PRIM_TYPE">
+      <value>
+        <option name="FOREGROUND" value="859900" />
+      </value>
+    </option>
+    <option name="TS.PRIVATE_PUBLIC">
+      <value>
+        <option name="FOREGROUND" value="93a1a1" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="TS.TYPE_GUARD">
