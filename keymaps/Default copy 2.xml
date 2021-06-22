@@ -53,6 +53,9 @@
     <mouse-shortcut keystroke="shift control button1" />
     <keyboard-shortcut first-keystroke="f12" />
   </action>
+  <action id="HTTPClient.RunAll">
+    <keyboard-shortcut first-keystroke="shift f5" />
+  </action>
   <action id="JumpToLastWindow" />
   <action id="Move" />
   <action id="ParameterInfo">
