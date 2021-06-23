@@ -38,6 +38,7 @@
   <action id="EditorDeleteLine">
     <keyboard-shortcut first-keystroke="shift ctrl z" />
   </action>
+  <action id="EditorSplitLine" />
   <action id="EditorStartNewLineBefore" />
   <action id="Forward">
     <keyboard-shortcut first-keystroke="ctrl alt right" />
@@ -52,6 +53,9 @@
     <keyboard-shortcut first-keystroke="shift ctrl b" />
     <mouse-shortcut keystroke="shift control button1" />
     <keyboard-shortcut first-keystroke="f12" />
+  </action>
+  <action id="HTTPClient.RunAll">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
   <action id="JumpToLastWindow" />
   <action id="Move" />
