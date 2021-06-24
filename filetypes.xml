@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="CREATE_TABLE_SERVICE_FUNCTION_DEF_2_MACHINE_CLASS.sql" type="Android Room SQL" />
+      <mapping ext="dat" type="Binary File" />
       <mapping pattern="test" type="CLASS" />
       <mapping ext="jacl" type="CLASS" />
       <mapping ext="jc" type="CLASS" />
