@@ -7,16 +7,17 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.properties" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.tml</mask>
-    <mask>*.properties</mask>
     <mask>*.js</mask>
     <mask>*.cs</mask>
     <mask>pom.xml</mask>
     <mask>*.sql</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*.properties</mask>
   </component>
 </application>
