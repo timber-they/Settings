@@ -11,12 +11,12 @@
     <mask>*.html</mask>
     <mask>*.jsp</mask>
     <mask>*.tml</mask>
-    <mask>*.properties</mask>
     <mask>*.js</mask>
     <mask>*.cs</mask>
-    <mask>*.xml</mask>
     <mask>pom.xml</mask>
     <mask>*.sql</mask>
+    <mask>*.xml</mask>
+    <mask>*.properties</mask>
     <mask>*.java</mask>
   </component>
 </application>
