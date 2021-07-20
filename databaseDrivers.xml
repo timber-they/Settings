@@ -10,7 +10,7 @@
       <artifact id="H2" name="H2" use="true" version="1.4.200" />
     </driver>
     <driver id="sqlserver.ms">
-      <artifact id="SQL Server" name="SQL Server" use="true" version="8.2.2" />
+      <artifact id="SQL Server" name="SQL Server" use="true" version="9.2.0" />
     </driver>
     <driver id="azure.ms">
       <option name="auto-sync" value="false" />
