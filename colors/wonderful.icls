@@ -1,16 +1,16 @@
 <scheme name="wonderful" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <option name="LINE_SPACING" value="1.0" />
-  <option name="EDITOR_FONT_SIZE" value="15" />
+  <option name="EDITOR_FONT_SIZE" value="14" />
   <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
   <option name="EDITOR_LIGATURES" value="true" />
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Consolas" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
+    <option name="EDITOR_FONT_SIZE" value="15" />
   </console-font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Monospaced" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
+    <option name="EDITOR_FONT_SIZE" value="24" />
   </console-font>
   <option name="CONSOLE_LIGATURES" value="true" />
   <colors>
