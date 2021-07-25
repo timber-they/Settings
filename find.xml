@@ -14,9 +14,9 @@
     <mask>*.js</mask>
     <mask>*.cs</mask>
     <mask>pom.xml</mask>
-    <mask>*.sql</mask>
     <mask>*.xml</mask>
     <mask>*.properties</mask>
     <mask>*.java</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
