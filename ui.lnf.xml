@@ -8,7 +8,6 @@
     <option name="CONSOLE_CYCLE_BUFFER_SIZE_KB" value="8192" />
     <option name="EDITOR_TAB_LIMIT" value="100" />
     <option name="MAX_LOOKUP_WIDTH2" value="1000" />
-    <option name="MERGE_EQUAL_STACKTRACES" value="false" />
     <option name="OVERRIDE_CONSOLE_CYCLE_BUFFER_SIZE" value="true" />
     <option name="USE_SMALL_LABELS_ON_TABS" value="true" />
   </component>
