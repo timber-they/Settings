@@ -5,7 +5,6 @@
     <option name="compactTables" value="true" />
     <option name="allowDataCollection" value="true" />
     <option name="compactDropdowns" value="true" />
-    <option name="darkTitleBar" value="true" />
     <option name="isCompactMenus" value="true" />
     <option name="isCompactStatusBar" value="true" />
     <option name="isCompactTables" value="true" />
@@ -13,15 +12,15 @@
     <option name="pristineConfig" value="false" />
     <option name="treeFontSizeEnabled" value="true" />
     <option name="tabFontSizeEnabled" value="true" />
-    <option name="treeFontSize" value="16" />
-    <option name="tabFontSize" value="16" />
-    <option name="settingsSelectedTab" value="1" />
+    <option name="treeFontSize" value="14" />
+    <option name="tabFontSize" value="14" />
+    <option name="settingsSelectedTab" value="6" />
     <option name="tabsHeight" value="25" />
     <option name="accentColor" value="d33682" />
     <option name="highlightColor" value="80cbc4" />
     <option name="selectedTheme" value="SOLARIZED_DARK" />
     <option name="userId" value="4edfaf94:165881e362d:-7ffd" />
-    <option name="version" value="6.7.2" />
+    <option name="version" value="6.8.0.1" />
     <option name="codeAdditionsEnabled" value="false" />
   </component>
 </application>
