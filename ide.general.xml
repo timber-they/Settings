@@ -33,7 +33,6 @@
     <entry key="ea.enable.developers.list" value="false" />
     <entry key="ide.intellij.laf.enable.animation" value="true" />
     <entry key="vcs.enable.add.ignored.directories.to.exclude" value="false" />
-    <entry key="ide.experimental.ui.toolwindow.stripes" value="true" />
   </component>
   <component name="StatusBar">
     <option name="widgets">

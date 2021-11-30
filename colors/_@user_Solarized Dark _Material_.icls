@@ -1,16 +1,30 @@
 <scheme name="_@user_Solarized Dark (Material)" version="142" parent_scheme="Darcula">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2021-06-01T11:14:23</property>
-    <property name="ide">idea</property>
-    <property name="ideVersion">2021.1.1.0.0</property>
-    <property name="modified">2021-08-14T13:38:12</property>
+    <property name="created">2021-11-30T11:36:43</property>
+    <property name="ide">Rider</property>
+    <property name="ideVersion">2021.2.2.0.0</property>
+    <property name="modified">2021-11-30T11:37:30</property>
     <property name="originalScheme">Solarized Dark (Material)</property>
   </metaInfo>
-  <option name="LINE_SPACING" value="1.1" />
-  <option name="EDITOR_FONT_SIZE" value="14" />
-  <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
-  <option name="EDITOR_LIGATURES" value="true" />
+  <option name="LINE_SPACING" value="1.4" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Menlo" />
+    <option name="EDITOR_FONT_SIZE" value="16" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </console-font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Menlo" />
+    <option name="EDITOR_FONT_SIZE" value="12" />
+  </console-font>
+  <option name="CONSOLE_LINE_SPACING" value="1.6" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="859900" />
     <option name="ANNOTATIONS_COLOR" value="7899a4" />
@@ -34,23 +48,31 @@
     <option name="DIAGRAM_REALIZATION_EDGE" value="cb4b16" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="4242a" />
     <option name="DIFF_SEPARATORS_TOP_BORDER" value="1e26" />
-    <option name="DOCUMENTATION_COLOR" value="2a4f5a" />
+    <option name="DOCUMENTATION_COLOR" value="3745" />
     <option name="DOC_COMMENT_GUIDE" value="839496" />
     <option name="DOC_COMMENT_LINK" value="268bd2" />
     <option name="ERROR_HINT" value="611738" />
-    <option name="FILESTATUS_ADDED" value="c3e887" />
-    <option name="FILESTATUS_DELETED" value="f77669" />
-    <option name="FILESTATUS_HIJACKED" value="ffcb6b" />
-    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_EXTERNAL" value="72a038" />
-    <option name="FILESTATUS_IDEA_SVN_FILESTATUS_OBSTRUCTED" value="727238" />
-    <option name="FILESTATUS_IDEA_SVN_REPLACED" value="c3e887" />
-    <option name="FILESTATUS_MODIFIED" value="80cbc4" />
-    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="80cbc4" />
-    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="80cbc4" />
-    <option name="FILESTATUS_OBSOLETE" value="ffcb6b" />
+    <option name="FILESTATUS_ADDED" value="859900" />
+    <option name="FILESTATUS_COPIED" value="859900" />
+    <option name="FILESTATUS_DELETED" value="b58900" />
+    <option name="FILESTATUS_HIJACKED" value="d33682" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="b58900" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="b58900" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="cb4b16" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="cb4b16" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="cb4b16" />
+    <option name="FILESTATUS_MERGED" value="6c71c4" />
+    <option name="FILESTATUS_MODIFIED" value="2aa198" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="268bd2" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="268bd2" />
+    <option name="FILESTATUS_OBSOLETE" value="b58900" />
+    <option name="FILESTATUS_RENAMED" value="268bd2" />
     <option name="FILESTATUS_SUPPRESSED" value="546e7a" />
-    <option name="FILESTATUS_SWITCHED" value="f77669" />
-    <option name="FILESTATUS_UNKNOWN" value="f77669" />
+    <option name="FILESTATUS_SWITCHED" value="268bd2" />
+    <option name="FILESTATUS_UNKNOWN" value="d33682" />
+    <option name="FILESTATUS_addedOutside" value="d33682" />
+    <option name="FILESTATUS_changelistConflict" value="cb4b16" />
+    <option name="FILESTATUS_modifiedOutside" value="6c71c4" />
     <option name="FOLDED_TEXT_BORDER_COLOR" value="1b4652" />
     <option name="GUTTER_BACKGROUND" value="2b36" />
     <option name="HTML_TAG_TREE_LEVEL0" value="dc322f" />
@@ -72,6 +94,26 @@
     <option name="METHOD_SEPARATORS_COLOR" value="73642" />
     <option name="MODIFIED_LINES_COLOR" value="268bd2" />
     <option name="MODIFIED_TAB_ICON" value="d33682" />
+    <option name="MT_FILESTATUS_ADDED" value="859900" />
+    <option name="MT_FILESTATUS_COPIED" value="859900" />
+    <option name="MT_FILESTATUS_DELETED" value="b58900" />
+    <option name="MT_FILESTATUS_HIJACKED" value="d33682" />
+    <option name="MT_FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="b58900" />
+    <option name="MT_FILESTATUS_IDEA_FILESTATUS_IGNORED" value="b58900" />
+    <option name="MT_FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="cb4b16" />
+    <option name="MT_FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="cb4b16" />
+    <option name="MT_FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="cb4b16" />
+    <option name="MT_FILESTATUS_MERGED" value="6c71c4" />
+    <option name="MT_FILESTATUS_MODIFIED" value="2aa198" />
+    <option name="MT_FILESTATUS_NOT_CHANGED_IMMEDIATE" value="268bd2" />
+    <option name="MT_FILESTATUS_NOT_CHANGED_RECURSIVE" value="268bd2" />
+    <option name="MT_FILESTATUS_OBSOLETE" value="b58900" />
+    <option name="MT_FILESTATUS_RENAMED" value="268bd2" />
+    <option name="MT_FILESTATUS_SWITCHED" value="268bd2" />
+    <option name="MT_FILESTATUS_UNKNOWN" value="d33682" />
+    <option name="MT_FILESTATUS_addedOutside" value="d33682" />
+    <option name="MT_FILESTATUS_changelistConflict" value="cb4b16" />
+    <option name="MT_FILESTATUS_modifiedOutside" value="6c71c4" />
     <option name="MnemonicIcon.background" value="2e4c52" />
     <option name="MnemonicIcon.borderColor" value="2e4c52" />
     <option name="MnemonicIcon.foreground" value="ffffff" />
@@ -1364,6 +1406,10 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
+    <option name="JADE_FILE_PATH" baseAttributes="DEFAULT_STRING" />
+    <option name="JADE_FILTER_NAME" baseAttributes="DEFAULT_LABEL" />
+    <option name="JADE_JS_BLOCK" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="JADE_STATEMENTS" baseAttributes="DEFAULT_KEYWORD" />
     <option name="JADE_TAG_ID">
       <value>
         <option name="FOREGROUND" value="6c71c4" />
@@ -1602,7 +1648,9 @@
       </value>
     </option>
     <option name="KOTLIN_LABEL">
-      <value />
+      <value>
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
     </option>
     <option name="KOTLIN_MUTABLE_VARIABLE">
       <value>
@@ -2984,8 +3032,10 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="3b514d" />
+        <option name="BACKGROUND" value="2e4c52" />
         <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="ffcc00" />
+        <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
     <option name="MESSAGE_ARGUMENT">
@@ -3004,7 +3054,7 @@
     </option>
     <option name="NOT_USED_ELEMENT_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="586e75" />
+        <option name="FOREGROUND" value="7a8686" />
         <option name="FONT_TYPE" value="2" />
         <option name="EFFECT_TYPE" value="2" />
       </value>
@@ -3737,6 +3787,7 @@
         <option name="FOREGROUND" value="93a1a1" />
       </value>
     </option>
+    <option name="ReSharper.FORMAT_STRING_ITEM_2" baseAttributes="ReSharper.FORMAT_STRING_ITEM" />
     <option name="ReSharper.HINT">
       <value>
         <option name="EFFECT_COLOR" value="9900" />
@@ -3845,6 +3896,7 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="ReSharper.STRING_ESCAPE_CHARACTER_2" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="ReSharper.STRUCT_IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="cb4b16" />
