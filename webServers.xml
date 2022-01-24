@@ -1,9 +1,0 @@
-<application>
-  <component name="WebServers">
-    <option name="servers">
-      <webServer id="7c8baa0d-64e6-40d2-bad5-6358c6a99265" name="WSL (7c8baa0d-64e6-40d2-bad5-6358c6a99265)" url="http:///">
-        <fileTransfer accessType="SFTP" host="localhost" port="2222" sshConfigId="76414786-220d-4342-a85c-3ccdb0170085" sshConfig="metacolon@localhost:2222 password" />
-      </webServer>
-    </option>
-  </component>
-</application>
